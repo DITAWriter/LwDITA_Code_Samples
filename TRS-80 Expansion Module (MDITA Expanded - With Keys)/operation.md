@@ -1,0 +1,11 @@
+---
+id: operation
+shortdesc: What you need to know about power states for the <span data-keyref="computer_model" /> expansion module.
+author: Sheri Alvarez
+---
+
+# Operation
+
+<p><div data-class="note">The Power switch is recessed into the front of the <span data-keyref="peripheral_name" /> to prevent accidental loss of power. Activate the switch with the eraser-end of a pencil or small tool of similar size.</div></p>
+
+Apply power to the <span data-keyref="peripheral_name" />. Notice that when power is off, the end surface of the switch is white and when power is on, it changes to orange.
