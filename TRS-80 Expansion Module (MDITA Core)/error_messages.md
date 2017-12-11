@@ -26,4 +26,4 @@ When an error message is displayed:
 - Remove all diskettes from drives, turn off the computer, wait 15 seconds, and turn it on again.
 - If you tried all these remedies and continue to get an error message, contact a Radio Shack Service Center.
 
-<p><div data-class="note">If more than one thing is wrong, the computer might wait until you correct the first error before displaying the second error message.</div></p>
+Note: If more than one thing is wrong, the computer might wait until you correct the first error before displaying the second error message.
