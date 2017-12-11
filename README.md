@@ -1,6 +1,8 @@
 # LwDITA_Code_Samples
 A set of code samples designed to demonstrate what is possible for each of the "flavors" of Lightweight DITA. All examples are based on various TRS-80 manuals which are out of copyright. Includes sample marketing material, computer hardware content, software samples, legal frontmatter and glossary.
 
+These files represent one interpretation as to how Lightweight DITA markup ought to be done, based on informaiton available in the current version of the (Lightweight DITA Committee Note)[https://www.oasis-open.org/committees/download.php/59950/LwDITA-v1.0-cn01.pdf], and the sample files that come with it.  
+
 ## TRS-80 Expansion Module (MDITA Core)
 This set of files were created using MDITA Core markup. 
 
