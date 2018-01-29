@@ -1,12 +1,12 @@
 ---
 id: limited_warranty
-shortdesc: A description of the limited warranty for the <span data-keyref="computer_model" /> expansion module.
+shortdesc: A description of the limited warranty for the [computer_model] expansion module.
 author: Wilson Rodriquez
 ---
 
 # Limited Warranty
 
-<span data-keyref="company_name" /> warrants for a period of 90 days from the date of delivery to customer that the computer hardware described herein shall be free from defects in material and workmanship under normal use and service. This warranty shall be void if the computer case or cabinet is opened or if the unit is altered or modified. During this period, if a defect should occur, the product must be returned to a <span data-keyref="company_name" /> store or dealer for repair. Customer's sole and exclusive remedy in the event of defect is expressly limited to the correction of the defect by adjustment, repair or replacement at <span data-keyref="company_name" />'s election and sole expense, except there shall be no obligation to replace or repair items which by their nature are expendable. No representations or other affirmation of fact, including but not limited to statements regarding capacity, suitability for use, or performance of the equipment, shall be or be deemed to be a warranty or representation by <span data-keyref="company_name" />, for any purpose, nor give rise to any liability or obligation of <span data-keyref="company_name" /> whatsoever.
+[company_name] warrants for a period of 90 days from the date of delivery to customer that the computer hardware described herein shall be free from defects in material and workmanship under normal use and service. This warranty shall be void if the computer case or cabinet is opened or if the unit is altered or modified. During this period, if a defect should occur, the product must be returned to a [company_name] store or dealer for repair. Customer's sole and exclusive remedy in the event of defect is expressly limited to the correction of the defect by adjustment, repair or replacement at [company_name]'s election and sole expense, except there shall be no obligation to replace or repair items which by their nature are expendable. No representations or other affirmation of fact, including but not limited to statements regarding capacity, suitability for use, or performance of the equipment, shall be or be deemed to be a warranty or representation by [company_name], for any purpose, nor give rise to any liability or obligation of [company_name] whatsoever.
 
 EXCEPT AS SPECIFICALLY PROVIDED IN THIS AGREEMENT, THERE ARE NO OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE AND IN NO EVENT SHALL RADIO SHACK BE LIABLE FOR LOSS OF PROFITS OR BENEFITS, INDIRECT, SPECIAL, CONSEQUENTIAL OR OTHER SIMILAR DAMAGES ARISING OUT OF ANY BREACH OF THIS WARRANTY OR OTHERWISE.
 

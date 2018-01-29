@@ -3,7 +3,7 @@ id: front
 author: Calvin Tucker
 ---
 
-# <span data-keyref="company_name" /> <span data-keyref="computer_model" /> EXPANSION INTERFACE
+# [company_name] [computer_model] EXPANSION INTERFACE
 ## Operator's Manual
 
 SEE CAUTION INSIDE COVER

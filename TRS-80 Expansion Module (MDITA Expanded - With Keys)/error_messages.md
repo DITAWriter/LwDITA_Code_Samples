@@ -1,6 +1,6 @@
 ---
 id: error_messages
-shortdesc: The types of error messages you may encounter when using your <span data-keyref="computer_model" /> computer.
+shortdesc: The types of error messages you may encounter when using your [computer_model] computer.
 author: Sylvia Yates
 ---
 
@@ -30,6 +30,6 @@ When an error message is displayed:
 - Check all the power connections.
 - Check all interconnections.
 - Remove all diskettes from drives, turn off the computer, wait 15 seconds, and turn it on again.
-- If you tried all these remedies and continue to get an error message, contact a <span data-keyref="company_name" /> Service Center.
+- If you tried all these remedies and continue to get an error message, contact a [company_name] Service Center.
 
 <p><div data-class="note">If more than one thing is wrong, the computer might wait until you correct the first error before displaying the second error message.</div></p>

@@ -1,6 +1,6 @@
 ---
 id: glossary
-shortdesc: A list of some of the computer-related terms you may run across while operating the <span data-keyref="computer_model" /> computer.
+shortdesc: A list of some of the computer-related terms you may run across while operating the [computer_model] computer.
 author: Jerry Cleborne
 ---
 
@@ -23,13 +23,13 @@ author: Jerry Cleborne
 
 <dt>Daisy wheel printer:</dt><dd>A printing machine whose print head has a number (usually 96) of radial arms or petals. Each petal has a type character on the end. Daisy wheel type is equal to or better than most typewriter type.</dd> 
 
-<dt>Digital computer:</dt><dd>A computer that uses a series of electronic offs and ons to represent information. These offs and ons are converted to (or from) binary numbers. The <span data-keyref="computer_model" /> is a digital computer.</dd> 
+<dt>Digital computer:</dt><dd>A computer that uses a series of electronic offs and ons to represent information. These offs and ons are converted to (or from) binary numbers. The [computer_model] is a digital computer.</dd> 
 
 <dt>Disk:</dt><dd>A piece of flat rotating circular mylar that is coated with magnetic material. It is used to store computer information.</dd> 
 
 <dt>Diskette:</dt><dd>A flexible disk that is 5 1/4 inches in diameter (about the size of a 45 RPM record). It is the most common mass storage device.</dd> 
 
-<dt>Documentation:</dt><dd>All of the available information about a particular computer, computer program or set of programs; it would include instructions on how to turn on the computer, how to load programs, and so on. For computer programs, the documentation should include such information as what type of computer the program runs on, how much memory is needed and how to operate the program. The <span data-keyref="computer_model" /> comes with an owner's manual.</dd>  
+<dt>Documentation:</dt><dd>All of the available information about a particular computer, computer program or set of programs; it would include instructions on how to turn on the computer, how to load programs, and so on. For computer programs, the documentation should include such information as what type of computer the program runs on, how much memory is needed and how to operate the program. The [computer_model] comes with an owner's manual.</dd>  
 
 <dt>Electronic mail:</dt><dd>Personal or other messages generated on computer and transmitted to another computer at a different location. The computers are connected by phone lines.</dd> 
 

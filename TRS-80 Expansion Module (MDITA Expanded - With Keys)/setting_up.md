@@ -1,6 +1,6 @@
 ---
 id: setting_up
-shortdesc: How to properly set up the power for the <span data-keyref="computer_model" /> <span data-keyref="peripheral_name" />.
+shortdesc: How to properly set up the power for the [computer_model] [peripheral_name].
 author: Kelley Mitchell
 ---
 
@@ -18,10 +18,10 @@ FIGURE 2. Power Supplies and Future Expansion PCB Locations.
 
 <p><div data-class="note">INSTALL EXPANSION INTERFACE DC POWER SUPPLY FIRST.</div></p> 
 
-<p><div data-class="note">The term "port" as used in this manual refers to the openings into which the Cable connectors are inserted to provide an interconnection between the <span data-keyref="computer_model" /> and the <span data-keyref="peripheral_name" /> modules.</div></p> 
+<p><div data-class="note">The term "port" as used in this manual refers to the openings into which the Cable connectors are inserted to provide an interconnection between the [computer_model] and the [peripheral_name] modules.</div></p> 
 
-The ports, with the exception of the <span data-keyref="peripheral_name" /> port, are also covered by removable Doors. To remove these Doors, press on the right side of the Door and it will pivot slightly. Grasp the left side of the Door and pull out (see the following figure for locations).
+The ports, with the exception of the [peripheral_name] port, are also covered by removable Doors. To remove these Doors, press on the right side of the Door and it will pivot slightly. Grasp the left side of the Door and pull out (see the following figure for locations).
 
 ![Image](images/expansion_with_doors_removed.png)
 
-FIGURE 3. <span data-keyref="peripheral_name" />, Front View—Doors Removed. 
+FIGURE 3. [peripheral_name], Front View—Doors Removed. 

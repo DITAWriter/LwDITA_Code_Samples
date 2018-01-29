@@ -1,6 +1,6 @@
 ---
 id: tac_tac_toe
-shortdesc: How to play the tic-tac-toe game on your <span data-keyref="computer_model" />.
+shortdesc: How to play the tic-tac-toe game on your [computer_model].
 author: Marvin Walker
 ---
 

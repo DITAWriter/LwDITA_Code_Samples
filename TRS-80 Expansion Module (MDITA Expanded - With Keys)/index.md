@@ -4,7 +4,7 @@ shortdesc: Linear list of the files for this document, intended to function as t
 author: Calvin Tucker
 ---
 
-# <span data-keyref="computer_model" /> Expansion Pack, Error Messages and Sample Game Code
+# [computer_model] Expansion Pack, Error Messages and Sample Game Code
 
 [Front Matter](front.md)
 [Welcome to the World of Personal Computing](welcome.md)

@@ -1,6 +1,6 @@
 ---
 id: trsdos_II_system_errors_table
-shortdesc: List of the possible TRSDOS-II error messages you may encounter when using the <span data-keyref="computer_model" />.
+shortdesc: List of the possible TRSDOS-II error messages you may encounter when using the [computer_model].
 author: Wilson Rodriquez
 ---
 

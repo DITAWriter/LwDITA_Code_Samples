@@ -1,6 +1,6 @@
 ---
 id: parts
-shortdesc: The individual parts and corresponding part numbers that describe the full set of peripheral devices available for the <span data-keyref="computer_model" /> computer. Useful if you ever need to order a new or replacement part from Tandy.
+shortdesc: The individual parts and corresponding part numbers that describe the full set of peripheral devices available for the [computer_model] computer. Useful if you ever need to order a new or replacement part from Tandy.
 author: Sheri Alvarez
 ---
 
@@ -16,10 +16,10 @@ author: Sheri Alvarez
 | Hood, Line Printer  | 1400213  |
 | Hood, Screen Printer  | 1400218      |
 | Hood, Future Expansion Board  | 1400218  |
-| Hood, <span data-keyref="computer_model" /> Microcomputer System  | 1400214  |
+| Hood, [computer_model] Microcomputer System  | 1400214  |
 
 
-| <span data-keyref="computer_model" /> MICROCOMPUTER SYSTEM  | # |
+| [computer_model] MICROCOMPUTER SYSTEM  | # |
 |---------|----------------|
 | Door | 1400083      |
 | Hood | 1400217 |

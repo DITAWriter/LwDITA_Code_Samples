@@ -1,6 +1,6 @@
 ---
 id: model_II_boot_errors_table
-shortdesc: List of the possible error messages you may encounter when using the <span data-keyref="computer_model" /> upon boot-up.
+shortdesc: List of the possible error messages you may encounter when using the [computer_model] upon boot-up.
 author: Wilson Rodriquez
 ---
 
@@ -27,7 +27,7 @@ author: Wilson Rodriquez
 | BOOT ERROR MH | Memory failure in address range X'8000'-X'FFFF'. | Contact RSSC. |
 | BOOT ERROR ML | Memory failure in address range X'0000'-X'0FFF'. | Contact RSSC. |
 | BOOT ERROR PI | Defective PIO Chip. | Turn on the expansion bay if it is off. If the error occurs again, contact RSSC. |
-| BOOT ERROR RS | The diskette in Drive 0 is not <span data-keyref="company_name" /> operating system format. | Insert a TRSDOS-II formatted diskette into Drive 0 and press RESET. |
+| BOOT ERROR RS | The diskette in Drive 0 is not [company_name] operating system format. | Insert a TRSDOS-II formatted diskette into Drive 0 and press RESET. |
 | BOOT ERROR SC | CRC Error. Invalid data on diskette or defective diskette. | Try a different diskette. |
 | BOOT ERROR TK | Record not found bootstrap track. Improperly formatted or defective diskette.| Re-format your diskette or try a different diskette. |
 | BOOT ERROR Z8 | Defective CPU. | Contact RSSC. | 

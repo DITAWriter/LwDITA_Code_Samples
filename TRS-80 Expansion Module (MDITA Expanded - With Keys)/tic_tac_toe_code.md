@@ -1,6 +1,6 @@
 ---
 id: tic_tac_toe_code
-shortdesc: Enter this BASIC code into your <span data-keyref="computer_model" /> in order to play a game of tic-tac-toe.
+shortdesc: Enter this BASIC code into your [computer_model] in order to play a game of tic-tac-toe.
 author: Thomas Price
 ---
 
