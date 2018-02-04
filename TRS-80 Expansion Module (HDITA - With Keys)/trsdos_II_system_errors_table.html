@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta name="description"
+      content="List of the possible TRSDOS-II error messages you may encounter when using the TRS-80." />
+    <meta name="author" content="Wilson Rodriquez" />
+  </head>
+  <body id="trsdos_II_system_errors_table">
+    <h1>TRSDOS-II System Errors Table</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>Code </th>
+          <th>Message </th>
+          <th>Explanation/Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>0</td>
+          <td>No Error Found.</td>
+          <td>No error occurred.</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>Bad Function Code On SVC Call Or No Function Exists.</td>
+          <td>Check the function code number used on the SVC call.</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Character Not Available.</td>
+          <td>No record or character was available when you you called the SVC.</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Parameter Error On Call.</td>
+          <td>Parameter is incorrect or a required parameter is missing.</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>CRC Error During Disk I/O.</td>
+          <td>Try the operation again, using a different diskette. If the problem occurs often,
+            contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Disk Sector Not Found.</td>
+          <td>Try a different diskette.</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Attempt To Open A File Which Has Not Been Closed.</td>
+          <td>Close the file before re-opening.</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Illegal Disk Change. Disk Drive Not Ready.</td>
+          <td>TRSDOS-II detected an illegal disk swap.</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>Disk Drive Not Ready.</td>
+          <td>Drive door is open or the diskette is not in the drive. On Thinline drives, check the
+            DRIVE command settings.</td>
+        </tr>
+        <tr>
+          <td>9</td>
+          <td>Invalid Data Provided By Caller.</td>
+          <td>Data stream to be processed has illegal characters.</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>Maximum Of 16 Files May Be Open At Once.</td>
+          <td>Too many files are open at once.</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>File Already In Directory.</td>
+          <td>Filename already exists as a directory entry. Kill the existing file, choose another
+            filename, or specify a drive number.</td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td>No Drive Available For An Open.</td>
+          <td>No on-line drive <ul>
+              <li>is write enabled</li>
+              <li>has enough space to create a new file, or </li>
+              <li>has a system directory.</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <td>Write Attempt To A Read Only File.</td>
+          <td>File was opened for read only, not for read/write.</td>
+        </tr>
+        <tr>
+          <td>14</td>
+          <td>Write Fault On Disk I/O.</td>
+          <td>Error occurred during a write operation. Try a different diskette. If the problem
+            continues, contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td>Disk Is Write Protected.</td>
+          <td>Write enable the disk.</td>
+        </tr>
+        <tr>
+          <td>16</td>
+          <td>DCB Is Modified And Is Unusable.</td>
+          <td>DCB (used in machine-language programming) has been modified since the last disk
+            access (while the file was open).</td>
+        </tr>
+        <tr>
+          <td>17</td>
+          <td>Directory Read Error.</td>
+          <td>Error occurred during an attempt to read the directory. Use a different diskette.
+          </td>
+        </tr>
+        <tr>
+          <td>18</td>
+          <td>Directory Write Error.</td>
+          <td>Error occurred during an attempt to write to the directory. Use a different diskette.
+          </td>
+        </tr>
+        <tr>
+          <td>19</td>
+          <td>Improper File Name (Filespec).</td>
+          <td>Filespec you gave does not meet TRSDOS-II standard file specifications.</td>
+        </tr>
+        <tr>
+          <td>20</td>
+          <td>Unknown Error Code</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>21</td>
+          <td>Unknown Error Code</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>22</td>
+          <td>Unknown Error Code</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>23</td>
+          <td>Unknown Error Code</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>24</td>
+          <td>File Not Found.</td>
+          <td>Filename you gave was not found on the available disks or the file is the incorrect
+            type for the desired operation.</td>
+        </tr>
+        <tr>
+          <td>25</td>
+          <td>File Access Denied Due To Password Protection.</td>
+          <td>You gave an incorrect password. See the ATTRIB command.</td>
+        </tr>
+        <tr>
+          <td>26</td>
+          <td>Directory Space Full.</td>
+          <td>Number of filenames has reached the amount set when you formatted the disk.</td>
+        </tr>
+        <tr>
+          <td>27</td>
+          <td>Disk Space Full.</td>
+          <td>No space is available on the disk.</td>
+        </tr>
+        <tr>
+          <td>28</td>
+          <td>Attempt To Read Past EOF.</td>
+          <td>Specified record number is past the EOF.</td>
+        </tr>
+        <tr>
+          <td>29</td>
+          <td>Read Attempt Outside Of File Limits.</td>
+          <td>Use valid record numbers.</td>
+        </tr>
+        <tr>
+          <td>30</td>
+          <td>No More Extents Available (16 Maximum).</td>
+          <td>Use the COPY command to copy the files and reduce fragmentation. See also SAVE/RESTORE
+            and MOVE.</td>
+        </tr>
+        <tr>
+          <td>31</td>
+          <td>Program Not Found.</td>
+          <td>Specified program is not found on the available disks.</td>
+        </tr>
+        <tr>
+          <td>32</td>
+          <td>Unknown Drive Number (Filespec).</td>
+          <td>Specified drive number is not valid.</td>
+        </tr>
+        <tr>
+          <td>33</td>
+          <td>Disk Space Allocation Cannot Be Made Due To Fragmentation Of Space.</td>
+          <td>Use the COPY command to copy the files and reduce fragmentation.</td>
+        </tr>
+        <tr>
+          <td>34</td>
+          <td>Attempt To Use A NON Program File As A Program.</td>
+          <td>File specified for execution is not a program file or the load address given is
+            illegal. Make sure you have a system diskette in Drive 0.</td>
+        </tr>
+        <tr>
+          <td>35</td>
+          <td>Memory Fault During Program Load.</td>
+          <td>Program is loaded incorrectly, possibly because of faulty memory or a "bad" load
+            address.</td>
+        </tr>
+        <tr>
+          <td>36</td>
+          <td>Parameter For Open Is Incorrect.</td>
+          <td>Check the OPEN statements or the DCB for errors.</td>
+        </tr>
+        <tr>
+          <td>37</td>
+          <td>Open Attempt For A File Already Open.</td>
+          <td>File specified for open is already open.</td>
+        </tr>
+        <tr>
+          <td>38</td>
+          <td>I/O Attempt To An Unopen File.</td>
+          <td>Open the file before access.</td>
+        </tr>
+        <tr>
+          <td>39</td>
+          <td>Illegal I/O Attempt.</td>
+          <td><ul>
+              <li>I command not given after a diskette swap.</li>
+              <li>Can be caused by an I/O attempt to a differently formatted disk. Format the disk
+                under the current version of TRSDOS-II or use FCOPY.</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>40</td>
+          <td>Seek Error.</td>
+          <td><ul>
+              <li>Data cannot be read from the disk – faulty disk.</li>
+              <li>When re-initializing a hard disk, you must also reformat the secondary
+                drives.</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>41</td>
+          <td>Data Lost During Disk I/O (Hardware Fault).</td>
+          <td>Contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>42</td>
+          <td>Printer Not Ready.</td>
+          <td>Check the connections, power, ribbon, on-line status, and so on.</td>
+        </tr>
+        <tr>
+          <td>43</td>
+          <td>Printer Out Of Paper.</td>
+          <td>Check the printer’s paper supply.</td>
+        </tr>
+        <tr>
+          <td>44</td>
+          <td>Printer Fault (May Be Turned Off).</td>
+          <td>Check the connections, power, ribbon, on-line status, and so on.</td>
+        </tr>
+        <tr>
+          <td>45</td>
+          <td>Printer Not Available.</td>
+          <td>Check the connections, power, ribbon, on-line status, and so on.</td>
+        </tr>
+        <tr>
+          <td>46</td>
+          <td>Not Applicable To VLR Type Files.</td>
+          <td>Operation performed is not valid for VLR files.</td>
+        </tr>
+        <tr>
+          <td>47</td>
+          <td>Required Command Parameter Not Found.</td>
+          <td>Required parameter or argument is missing from the command.</td>
+        </tr>
+        <tr>
+          <td>48</td>
+          <td>Incorrect Command Parameter.</td>
+          <td>Option or argument given in the command is incorrect.</td>
+        </tr>
+        <tr>
+          <td>49</td>
+          <td>Hardware Fault During Disk I/O.</td>
+          <td>Contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>50</td>
+          <td>Invalid Space Descriptor.</td>
+          <td>The space descriptor that tells TRSDOS-II which extent to read next is invalid. Try a
+            different diskette.</td>
+        </tr>
+        <tr>
+          <td>51-255</td>
+          <td>Unknown error code</td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+    <p>These codes are also returned to machine code routines that call a SVC (System Service Call)
+      of TRSDOS-II. Register A usually has a return code after any function call. The Z flag is set
+      when no error occurs. Exceptions are certain computational routines, which use Registers A and
+      F to pass back data and status information.</p>
+    <p conref="conref.html#conref/contact"> </p>
+  </body>
+</html>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta name="description"
+      content="List of the possible error messages you may encounter when using the TRS-80 upon boot-up." />
+    <meta name="author" content="Wilson Rodriquez" />
+  </head>
+  <body id="model_II_boot_errors_table">
+    <h1>Model II Boot Errors Table</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>Error</th>
+          <th>Message</th>
+          <th>Explanation/Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>BOOT ERROR CK</td>
+          <td>Checksum error – possibly a defective ROM.</td>
+          <td>Contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR CT</td>
+          <td>Defective CTC chip.</td>
+          <td>Contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR DC</td>
+          <td>Floppy disk controller error. <ol>
+              <li>Defective diskette.</li>
+              <li>Floppy disk expansion unit not on.</li>
+              <li>Defective FDC Chip or Drive.</li>
+            </ol>
+          </td>
+          <td><ol>
+              <li>Try a different diskette.</li>
+              <li>Turn on the floppy disk expansion unit.</li>
+              <li>Contact RSSC.</li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR DM</td>
+          <td>DMA chip failure.</td>
+          <td>DMA chip failure.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR D0</td>
+          <td>Drive not ready. <ol>
+              <li>Improperly inserted diskette.</li>
+              <li>Defective diskette.</li>
+              <li>Defective drive.</li>
+            </ol>
+          </td>
+          <td><ol>
+              <li>Insert the diskette again and press .</li>
+              <li>Try a different diskette. </li>
+              <li>Contact RSSC.</li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR HA</td>
+          <td>Controller error. Aborted command: Problem during boot-up of hard disk.</td>
+          <td>Re-initialize the hard disk or contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR HC</td>
+          <td>CRC error. Invalid data in data field.</td>
+          <td>Re-initialize the hard disk or contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR HD</td>
+          <td>Controller error. Busy not reset.</td>
+          <td><ol>
+              <li>Re-initialize the hard disk.</li>
+              <li>Power down, wait 10 seconds, and power up.</li>
+            </ol> If the error occurs again, contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR HI</td>
+          <td>CRC error. Invalid data in ID field.</td>
+          <td>Re-initialize the hard disk.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR HM</td>
+          <td>Data address mark not found.</td>
+          <td>Re-initialize the hard disk.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR HN</td>
+          <td>ID not found. No Boot Track.</td>
+          <td>Re-initialize the hard disk.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR H0</td>
+          <td>Track 0 error on hard disk. <ol>
+              <li>Didn’t find Track 0 before time-out.</li>
+              <li>Secondary hard disk drives not turned on.</li>
+            </ol>
+          </td>
+          <td><ol>
+              <li>Press RESET.</li>
+              <li>Turn on your secondary hard disk drives.</li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR HT</td>
+          <td>Time-out while waiting for Ready. <ol>
+              <li>Hard disk drive not powered up.</li>
+              <li>Hard disk drive isn’t turned on and ready within 10 seconds after the
+                computer.</li>
+              <li>Hard disk drive is disconnected.</li>
+            </ol>
+          </td>
+          <td><ol>
+              <li>Follow correct procedure: Turn on the hard disk first.</li>
+              <li>Press RESET.</li>
+              <li>Connect the hard disk drive or operate under floppy disk control.</li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR LD</td>
+          <td>Lost data during read – FDC (floppy disk controller) or drive fault.</td>
+          <td>Try another TRSDOS-II diskette or contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR MF</td>
+          <td>Memory failure in address range X’1000'-X’7FFF'.</td>
+          <td>Contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR MH</td>
+          <td>Memory failure in address range X’8000'-X’FFFF'.</td>
+          <td>Contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR ML</td>
+          <td>Memory failure in address range X’0000'-X’0FFF'.</td>
+          <td>Contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR PI</td>
+          <td>Defective PIO Chip.</td>
+          <td>Turn on the expansion bay if it is off. If the error occurs again, contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR RS</td>
+          <td>The diskette in Drive 0 is not <span data-keyref="company_name"></span> operating
+            system format.</td>
+          <td>Insert a TRSDOS-II formatted diskette into Drive 0 and press RESET.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR SC</td>
+          <td>CRC Error. Invalid data on diskette or defective diskette.</td>
+          <td>Try a different diskette.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR TK</td>
+          <td>Record not found bootstrap track. Improperly formatted or defective diskette.</td>
+          <td>Re-format your diskette or try a different diskette.</td>
+        </tr>
+        <tr>
+          <td>BOOT ERROR Z8</td>
+          <td>Defective CPU.</td>
+          <td>Contact RSSC.</td>
+        </tr>
+        <tr>
+          <td>NOT A SYSTEM DISK</td>
+          <td>Diskette in Drive 0 isn’t a TRSDOS-II operating system diskette.</td>
+          <td>Insert a TRSDOS-II operating system diskette into Drive 0.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p conref="conref.html#conref/contact"> </p>
+  </body>
+</html>
