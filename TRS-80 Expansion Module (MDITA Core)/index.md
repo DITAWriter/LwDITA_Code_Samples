@@ -13,7 +13,7 @@
 [Parts](parts.md)
 [Error Messages](error_messages.md)
 [Model II Boot Errors Table](model_II_boot_errors_table.md)
-[TRSDOS-II System Errors Table](trsdos-II_system_errors_table)
+[TRSDOS-II System Errors Table](trsdos-II_system_errors_table.md)
 [Tic-Tac-Toe](tic_tac_toe.md)
 [Tic-Tac-Toe Code](tic_tac_toe_code.md)
 [Glossary](glossary.md)
