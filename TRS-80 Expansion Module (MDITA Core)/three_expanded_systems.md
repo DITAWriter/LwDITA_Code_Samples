@@ -22,7 +22,7 @@ INCLUDES:
 - TRS-80 Screen Printer (26-1151) 
 - TRS-80 Expansion Interface (26-1140) 
 - TRS-80 Mini-Disk System (26-1160) 
-![Image](images/business_system.jpg)
+![Image](images/professional_system.jpg)
 
 ## 32K "BUSINESS" SYSTEM 
 A line printer and two mini-disk units are featured in the "BUSINESS" System. Possible applications include general ledger and payroll, accounts receivable/accounts payable, inventory control, mailing lists, sales and market analysis, and use in medical and dental offices. 
@@ -35,6 +35,6 @@ INCLUDES:
 - TRS-80 Expansion Interface (26-1140) 
 - Two TRS-80 Mini-Disk Systems (26-1160) 
 - 16K RAM Memory Option (26-1101) 
-![Image](images/professional_system.jpg)
+![Image](images/business_system.jpg)
 
-For more information, please see our instructive video about the TRS-80's capabilities: <video src="https://www.youtube.com/watch?v=0xW_4NXU3jI" controls poster="video_ad_still.png" />
+For more information, please see our instructive video about the TRS-80's capabilities: <video src="https://www.youtube.com/watch?v=0xW_4NXU3jI" controls poster="images/video_ad_still.png" />
