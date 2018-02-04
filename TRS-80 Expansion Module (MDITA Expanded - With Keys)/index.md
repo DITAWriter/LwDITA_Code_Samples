@@ -25,20 +25,7 @@ author: Calvin Tucker
 [Glossary](glossary.md)
 [Limited Warranty](limited_warranty.md)
 
-<keydef keys="computer_model">
-  <topicmeta>
-    <linktext>TRS-80</linktext>
-  </topicmeta>
-</keydef>
-<keydef keys="peripheral_name">
-  <topicmeta>
-    <linktext>Expansion Interface</linktext>
-  </topicmeta>
-</keydef>
-<keydef keys="company_name">
-  <topicmeta>
-    <linktext>Radio Shack</linktext>
-  </topicmeta>
-</keydef>
-
+<var class="linktext" data-keys="computer_model">TRS-80</var>
+<var class="linktext" data-keys="peripheral_name">Expansion Interface</var>
+<var class="linktext" data-keys="company_name">Radio Shack</var>
 

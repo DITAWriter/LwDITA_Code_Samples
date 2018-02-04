@@ -28,7 +28,7 @@ INCLUDES:
 - [computer_model] Screen Printer (26-1151) 
 - [computer_model] [peripheral_name] (26-1140) 
 - [computer_model] Mini-Disk System (26-1160) 
-![Image](images/business_system.jpg)
+![Image](images/professional_system.jpg)
 
 ## 32K "BUSINESS" SYSTEM 
 A line printer and two mini-disk units are featured in the "BUSINESS" System. Possible applications include general ledger and payroll, accounts receivable/accounts payable, inventory control, mailing lists, sales and market analysis, and use in medical and dental offices. 
@@ -41,6 +41,6 @@ INCLUDES:
 - [computer_model] [peripheral_name] (26-1140) 
 - Two [computer_model] Mini-Disk Systems (26-1160) 
 - 16K RAM Memory Option (26-1101) 
-![Image](images/professional_system.jpg)
+![Image](images/business_system.jpg) 
 
-For more information, please see our instructive video about the [computer_model]'s capabilities: <video src="https://www.youtube.com/watch?v=0xW_4NXU3jI" controls poster="video_ad_still.png" />
+For more information, please see our instructive video about the TRS-80's capabilities: <video src="https://www.youtube.com/watch?v=0xW_4NXU3jI?autoplay=0" controls poster="images/video_ad_still.png" />
