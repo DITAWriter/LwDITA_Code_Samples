@@ -1,7 +1,7 @@
 # LwDITA_Code_Samples
 A set of code samples designed to demonstrate what is possible for each of the "flavors" of Lightweight DITA. All examples are based on  sections of various TRS-80 manuals from the late-1970s/early-1980s that have either lapsed or have been donated into the Public Domain. Includes sample marketing material, computer hardware content, software samples, legal frontmatter and glossary.
 
-These files represent one interpretation as to how Lightweight DITA markup ought to be done, based on information available in the current version of the [Lightweight DITA Committee Note](https://www.oasis-open.org/committees/download.php/59950/LwDITA-v1.0-cn01.pdf), and the sample files that come with it.  
+These files represent one interpretation as to how Lightweight DITA markup ought to be done, based on information available in the current version of the [Lightweight DITA Committee Note](http://docs.oasis-open.org/dita/LwDITA/v1.0/cnprd02/LwDITA-v1.0-cnprd02.pdf), and the sample files that come with it.  
 
 ## TRS-80 Expansion Module (MDITA Core)
 These files were created using MDITA Core markup. This is the "base" version, and contains only what is allowed in an MDITA Core LwDITA set of content. Tables utilize standard GitHib markup, with one including valid HTML (not HDITA) code to distinguish points within a table cell. 
@@ -15,8 +15,8 @@ This set of sample files are the same as the previous example, but with the addi
 ## TRS-80 Expansion Module (HDITA) 
 These files are functionally the same as the "MDITA Expanded version" with keys, but is based entirely HDITA markup. It is based on HTML5, and all files end with the ".html" suffix.
 
-## TRS-80 Expansion Module (XDITA) [TBD]
-These files are functionally the same as the "MDITA Expanded version" and the "HDITA version", but uses XDITA markup. These files should be directly usable in any DITA 1.3 compliant setup. Note that the tables follow simpletable formatting, as required within LwDITA.
+## TRS-80 Expansion Module (XDITA)
+These files are functionally the same as the "MDITA Expanded version" and the "HDITA version", but uses XDITA markup. These files should be directly usable in any DITA 1.3 compliant setup, though note that the multimedia elements "three_expanded_systems.dita" may not work using DITA 1.3 DTDs instead of those for LwDITA. Also note that the tables follow simpletable formatting, as required within LwDITA. *This is still a work-in-progress, but the existing code is workable.*
 
 ## TRS-80 Expansion Module ("Full" DITA 1.3) [TBD]
 This version of the files is done using "full" DITA 1.3, so the topics are typed, and follow DITA writing best practices.
