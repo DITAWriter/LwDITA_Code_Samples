@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd" >
+<topic xml:lang="en-us" id="operation">
+    <title>Operation</title>
+    <shortdesc>What you need to know about power states for the TRS-80 expansion module.</shortdesc>
+    <prolog>
+        <data name="author" value="Sheri Alvarez"/>
+    </prolog>
+    <body>
+        <note>The Power switch is recessed into the front of the <ph keyref="peripheral_name"/> to
+            prevent accidental loss of power. Activate the switch with the eraser-end of a pencil or
+            small tool of similar size.</note>
+        <p>Apply power to the <ph keyref="peripheral_name"/>. Notice that when power is off, the end
+            surface of the switch is white and when power is on, it changes to orange.</p>
+    </body>
+</topic>

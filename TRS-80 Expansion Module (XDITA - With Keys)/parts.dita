@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd" >
+<topic xml:lang="en-us" id="parts">
+   <shortdesc>The individual parts and corresponding part numbers that describe the full set of
+      peripheral devices available for the TRS-80 computer. Useful if you ever need to order a new
+      or replacement part from Tandy.</shortdesc>
+   <prolog>
+      <data name="author" value="Sheri Alvarez"/>
+   </prolog>
+   <title>Parts List</title>
+   <body>
+      <simpletable>
+         <sthead>
+            <stentry>EXPANSION INTERFACE</stentry>
+            <stentry># </stentry>
+         </sthead>
+         <strow>
+            <stentry>Door, Mini-Disk</stentry>
+            <stentry>1400212</stentry>
+         </strow>
+         <strow>
+            <stentry>Door, Line Printer</stentry>
+            <stentry>1400212</stentry>
+         </strow>
+         <strow>
+            <stentry>Door, Screen Printer</stentry>
+            <stentry>1400216</stentry>
+         </strow>
+         <strow>
+            <stentry>Door, Future Expansion Board</stentry>
+            <stentry>1400216</stentry>
+         </strow>
+         <strow>
+            <stentry>Hood, Mini-Disk</stentry>
+            <stentry>1400213</stentry>
+         </strow>
+         <strow>
+            <stentry>Hood, Line Printer</stentry>
+            <stentry>1400213</stentry>
+         </strow>
+         <strow>
+            <stentry>Hood, Screen Printer</stentry>
+            <stentry>1400218</stentry>
+         </strow>
+         <strow>
+            <stentry>Hood, Future Expansion Board</stentry>
+            <stentry>1400218</stentry>
+         </strow>
+         <strow>
+            <stentry>Hood, <ph/> Microcomputer System</stentry>
+            <stentry>1400214</stentry>
+         </strow>
+      </simpletable>
+
+      <simpletable>
+         <sthead>
+            <stentry>MICROCOMPUTER SYSTEM</stentry>
+            <stentry># </stentry>
+         </sthead>
+         <strow>
+            <stentry>Door</stentry>
+            <stentry>1400083</stentry>
+         </strow>
+         <strow>
+            <stentry>Hood</stentry>
+            <stentry>1400217</stentry>
+         </strow>
+      </simpletable>
+   </body>
+</topic>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd" >
+<topic xml:lang="en-us" id="setting_up">
+   <title>Setting Up</title>
+   <shortdesc>How to properly set up the power for the TRS-80 Expansion Interface.</shortdesc>
+   <prolog>
+      <data name="author" value="Kelley Mitchell"/>
+   </prolog>
+   <body>
+      <section>
+         <title>Power Supplies and PCB Housing</title>
+         <p>Remove the Power Supply Door (top right side). First connect one DC power cord (DIN
+            connector) to the Power connector on the PCB. Now install the two DC Power Supplies as
+            illustrated. Route the remaining cords out the rear of the case. Be sure the power cords
+            are seated in the door cutouts before replacing the Door.</p>
+         <p>To gain access to the future expansion PCB Housing, remove the Expansion Door from the
+            top left side of the module.</p>
+         <ph>
+            <image href="images/future_expansion_locations.png">
+               <alt>FIGURE 2. Power Supplies and Future Expansion PCB Locations.</alt>
+            </image>
+            <ph>FIGURE 2. Power Supplies and Future Expansion PCB Locations.</ph>
+         </ph>
+         <p>INSTALL EXPANSION INTERFACE DC POWER SUPPLY FIRST.</p>
+         <p>The term "port" as used in this manual refers to the openings into which the Cable
+            connectors are inserted to provide an interconnection between the </p>
+         <ph/>
+         <p> and the </p>
+         <ph/>
+         <p> modules.</p>
+         <p>The ports, with the exception of the <ph/> port, are also covered by removable Doors. To
+            remove these Doors, press on the right side of the Door and it will pivot slightly.
+            Grasp the left side of the Door and pull out (see the following figure for
+            locations).</p>
+         <ph>
+            <image href="images/expansion_with_doors_removed.png">
+               <alt>FIGURE 3. Expansion Interface, Front View—Doors Removed.</alt>
+            </image>
+            <ph>FIGURE 3. Expansion Interface, Front View—Doors Removed.</ph>
+         </ph>
+      </section>
+   </body>
+</topic>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd" >
+<topic xml:lang="en-us" id="introduction">
+      <title>Introduction</title>
+      <shortdesc>An overview of the features and functions of the TRS-80 expansion
+            module.</shortdesc>
+      <prolog>
+            <data name="author" value="Wilson Rodriquez"/>
+      </prolog>
+      <body>
+            <p>The <ph keyref="computer_model"/>
+                  <ph keyref="peripheral_name"/> consists of the Case, a DC Power Supply, a Ribbon
+                  Cable, a Cassette Recorder Jumper Cable and an additional Cassette Recorder Cable
+                  for Cassette Recorder number 2. Notice that the DC Power Supply is not installed
+                  in the Case upon receipt. It must be installed using the procedures under the
+                  heading "SETTING UP".</p>
+            <p>The Case houses the <ph keyref="peripheral_name"/> Printed Circuit Board (PCB), two
+                  DC Power Supplies and provides a housing area for an additional expansion PCB. The
+                        <ph keyref="peripheral_name"/> utilizes a real-time clock and contains
+                  sockets for the addition of up to 32K of RAM in 16K increments.</p>
+            <p>One DC Power Supply provides power to the PCB. The other one supplies power to the
+                        <ph keyref="computer_model"/>. The Power Supplies are interchangeable.</p>
+            <p>The ribbon cable has 40-pin connectors on both ends and is used to connect the <ph
+                        keyref="peripheral_name"/> to the <ph keyref="computer_model"/>. You
+                  received hoods for these connectors which are covered later in this manual.</p>
+            <p>The Cassette Recorder Jumper Cable has 5-pin audio DIN connectors on both ends. It
+                  connects between the <ph keyref="peripheral_name"/> Tape input/output (I/O) and
+                  the TAPE connector on the right rear of the <ph keyref="computer_model"/>
+                  Microcomputer.</p>
+            <p>The Cassette Recorder Cable is provided to connect the <ph keyref="peripheral_name"/>
+                  to Cassette Recorder number 2.</p>
+      </body>
+</topic>

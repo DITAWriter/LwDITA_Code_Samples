@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd" >
+<topic xml:lang="en-us" id="conclusion">
+   <title>Conclusion</title>
+   <shortdesc>Thanks for buying the TRS-80 expansion module and goodbye!</shortdesc>
+   <prolog>
+      <data name="author" value="Reginald Sutton"/>
+   </prolog>
+   <body>
+      <p>Possibly, you will not need all of the expansion modules that are available but, we have
+         supplied you with Hoods for cable connectors for a complete expansion system. Use the Hoods
+         as illustrated to prevent accidental mismatch between the edge connectors on the PCB and
+         the cable connectors.</p>
+      <p>In the event that you lose a Door or Hood and want to replace it, we have given you a Parts
+         List. You may refer to the Parts List and exploded diagrams to determine its Part Number.
+         You can order replacement parts through your local <ph keyref="company_name"/> store.</p>
+      <p>You must have a LEVEL II BASIC <ph keyref="computer_model"/> Microcomputer to utilize the
+            <ph keyref="computer_model"/>
+         <ph keyref="peripheral_name"/>, the Line Printer and the Mini-Disk modules. If you have a
+         LEVEL I BASIC machine, it must be modified to accept LEVEL II programs. The Screen Printer
+         is the only expansion module that may be connected directly to the <ph
+            keyref="computer_model"/> Microcomputer and that will operate with LEVEL I machines.</p>
+      <p>We are continually improving and updating our <ph keyref="computer_model"/> Microcomputer
+         System. You will be kept informed through our Newsletters (you are on the mailing list),
+         addenda and revisions to the Manual.</p>
+      <p>For the complete Electrical Connections Block Diagram, see the concluding figure below
+         describing the maximum possible set of peripheral devices that can be connected via the
+         expansion interface.</p>
+      <div>
+         <image href="images/rear_view_interface_connections.png">
+            <alt>FIGURE 5. Rear View—Interface Connections.</alt>
+         </image>
+         <ph>FIGURE 5. Rear View—Interface Connections.</ph>
+      </div>
+      <div>
+         <image href="images/placement_of_expansion_interface.jpg">
+            <alt>FIGURE 6. Placement of Expansion Interface</alt>
+         </image>
+         <ph>FIGURE 6. Placement of Expansion Interface</ph>
+      </div>
+      <div>
+         <image href="images/schematic_of_system_without_expansion.png">
+            <alt>TRS-80 Microcomputer System Without Expansion Interface</alt>
+         </image>
+         <ph>TRS-80 Microcomputer System Without Expansion Interface</ph>
+      </div>
+      <div>
+         <image href="images/schematic_of_system_with_expansion.png">
+            <alt>FIGURE 7. Electrical Connections Block Diagram. TRS-80 Microcomputer System with
+               Expansion Interface</alt>
+         </image>
+         <ph>FIGURE 7. Electrical Connections Block Diagram. TRS-80 Microcomputer System with
+            Expansion Interface</ph>
+      </div>
+   </body>
+</topic>
