@@ -9,13 +9,13 @@ author: Sylvia Yates
 There are three kinds of error messages you might get while using your computer:
 
 - Boot errors, such as BOOT ERROR DC. See the Boot Errors Table for more information.
-- Operating system errors, such as ERROR 24 or FILE NOT FOUND. To get a brief description of a numbered error, type `ERROR` followed by the error number displayed. For example, type:
+- Operating system errors, such as ERROR 24 or FILE NOT FOUND. To get a brief description of a numbered error, type 'ERROR' followed by the error number displayed. For example, type:
 
-`ERROR 31 (ENTER)`
+'ERROR 31 (ENTER)'
 
 and your screen shows:
 
-`PROGRAM NOT FOUND`
+'PROGRAM NOT FOUND'
 
 For more information see the System Errors Table.
 
@@ -32,4 +32,4 @@ When an error message is displayed:
 - Remove all diskettes from drives, turn off the computer, wait 15 seconds, and turn it on again.
 - If you tried all these remedies and continue to get an error message, contact a Radio Shack Service Center.
 
-<p><div data-class="note">If more than one thing is wrong, the computer might wait until you correct the first error before displaying the second error message.</div></p>
+<div data-class="note"><p>If more than one thing is wrong, the computer might wait until you correct the first error before displaying the second error message.</p></div>

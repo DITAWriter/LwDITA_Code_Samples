@@ -16,9 +16,9 @@ To gain access to the future expansion PCB Housing, remove the Expansion Door fr
 
 FIGURE 2. Power Supplies and Future Expansion PCB Locations.
 
-<p><div data-class="note">INSTALL EXPANSION INTERFACE DC POWER SUPPLY FIRST.</div></p> 
+<div data-class="note"><p>INSTALL EXPANSION INTERFACE DC POWER SUPPLY FIRST.</p></div> 
 
-<p><div data-class="note">The term "port" as used in this manual refers to the openings into which the Cable connectors are inserted to provide an interconnection between the TRS-80 and the Expansion Interface modules.</div></p> 
+<div data-class="note"><p>The term "port" as used in this manual refers to the openings into which the Cable connectors are inserted to provide an interconnection between the TRS-80 and the Expansion Interface modules.</p></div> 
 
 The ports, with the exception of the Expansion Interface port, are also covered by removable Doors. To remove these Doors, press on the right side of the Door and it will pivot slightly. Grasp the left side of the Door and pull out (see the following figure for locations).
 

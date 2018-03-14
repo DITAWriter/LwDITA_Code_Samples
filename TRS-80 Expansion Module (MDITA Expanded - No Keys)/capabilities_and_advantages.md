@@ -17,13 +17,12 @@ The Screen Printer and Line Printer allow you to obtain hard copy (printed) info
 
 The TRS-80 Mini-Disk System is a small version of the floppy disk. It provides vast storage space and much quicker access time than tape. The number 1 disk contains about 80,000 bytes of free space for files. Each additional disk has 89,600 bytes of file space. The Disk System has its own set of commands that allow manipulation of files and expanded abilities in file use. The TRS-80 Mini-Disk System uses sequential or random access. The disks will allow use of several additional LEVEL II commands.
 
-<p><div data-class="note">Because of the presence of a Disk Controller in the Expansion Interface, the computer will try to input the additional commands.</div></p>
-
+<div data-class="note"><p>Because of the presence of a Disk Controller in the Expansion Interface, the computer will try to input the additional commands.</p></div>
 When the Expansion Interface is connected to the computer, it assumes that a Mini-Disk is connected. To use the Expansion Interface without a Mini-Disk, press the BREAK key on the TRS-80 keyboard. This will override the Mini-Disk mode and allow normal LEVEL II operation.
 
 The use of two cassettes allows a much more efficient and convenient manner of updating data stored on tape. For example, if you have payroll data stored on tape, the information can be read, one item at a time, from Cassette Recorder number 1, then changed or added to and written out on Cassette Recorder number 2. The example cited is a very simple application; however, very powerful routines can be constructed to allow input and output of data using two tapes simultaneously.
 
-<p><div data-class="note">This unit is designed to be used with Level II only. Do not use with level I.</div></p>
+<div data-class="note"><p>This unit is designed to be used with Level II only. Do not use with level I.</p></div>
 
 ![Image](images/expansion_interface_pic.jpg)
 
