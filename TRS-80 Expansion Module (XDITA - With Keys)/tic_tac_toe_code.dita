@@ -8,8 +8,7 @@
     <data name="author" value="Thomas Price"/>
   </prolog>
   <body>
-    <codeblock>
-         <codeph>
+	<pre>
 10 ' COPYRIGHT 1978 THOMAS D. PRICE, JR.
 30 RANDOM
   : CLS
@@ -280,8 +279,7 @@
   : NEXT
   : RETURN
 829 DATA 1,2,3,3,4,5,5,6,7,7,8,1,2,9,6,8,9,4,1,9,5,3,9,7,0,0,0
-</codeph>
-      </codeblock>
+	</pre>
     <!-- This code has been released under a Creative Commons CC0 1.0 Universal license. -->
     <!-- The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. -->
   </body>
