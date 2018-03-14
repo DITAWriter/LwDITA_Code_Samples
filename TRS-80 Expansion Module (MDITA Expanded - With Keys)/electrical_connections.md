@@ -22,7 +22,7 @@ Of the three plugs on the other end of the Cable:
 2. Connect the larger gray plug to the AUX jack.
 3. Connect the smaller gray plug to the REM jack.
 
-<p><div data-class="note">A Dummy Plug is provided with your Cassette Recorder. Plug it in to the MIC jack. This Plug disconnects the built-in microphone so it won't pick up sounds while you are loading tapes.</div></p>
+<div data-class="note"><p>A Dummy Plug is provided with your Cassette Recorder. Plug it in to the MIC jack. This Plug disconnects the built-in microphone so it won't pick up sounds while you are loading tapes.</p></div>
 
 ![Image](images/interface_connections.png)
 
@@ -32,6 +32,6 @@ Connect the Cassette Recorder Jumper Cable to the center DIN connector on the re
 
 Connect the Video Cable from the Video Display to the VIDEO connector on the right rear of the [computer_model].
 
-<p><div data-class="note">Your Cassette Recorders may be powered by batteries or from a 120 VAC source. Thus, AC power cords are optional.</div></p>
+<div data-class="note"><p>Your Cassette Recorders may be powered by batteries or from a 120 VAC source. Thus, AC power cords are optional.</p></div>
 
 The [computer_model] [peripheral_name] has been designed to support the Video Display module. Set the feet of the Video Display in the recesses in the Power Supply and PCB Housing Doors. 
