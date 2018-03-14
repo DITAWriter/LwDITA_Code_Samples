@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD XDITA Map//EN" "lw-map.dtd">
+<map>
+    <title><ph keyref="peripheral_name"/> Expansion Pack, Error Messages and Sample Game
+        Code</title>
+    <topicref href="front.dita" type="topic" format="dita"/>
+    <topicref href="welcome.dita" type="topic" format="dita"/>
+    <topicref href="three_expanded_systems.dita" type="topic" format="dita"/>
+    <topicref href="new_expansion.dita" type="topic" format="dita"/>
+    <topicref href="introduction.dita" type="topic" format="dita"/>
+    <topicref href="capabilities_and_advantages.dita" type="topic" format="dita"/>
+    <topicref href="setting_up.dita" type="topic" format="dita"/>
+    <topicref href="electrical_connections.dita" type="topic" format="dita"/>
+    <topicref href="operation.dita" type="topic" format="dita"/>
+    <topicref href="conclusion.dita" type="topic" format="dita"/>
+    <topicref href="parts.dita" type="topic" format="dita"/>
+    <topicref href="error_messages.dita" type="topic" format="dita"/>
+    <topicref href="model_II_boot_errors_table.dita" type="topic" format="dita"/>
+    <topicref href="trsdos_II_system_errors_table.dita" type="topic" format="dita"/>
+    <topicref href="tac_tac_toe.dita" type="topic" format="dita"/>
+    <topicref href="tic_tac_toe_code.dita" type="topic" format="dita"/>
+    <topicref href="glossary.dita" type="topic" format="dita"/>
+    <topicref href="limited_warranty.dita" type="topic" format="dita"/>
+
+    <keydef keys="computer_model">
+        <topicmeta>
+            <linktext>TRS-80</linktext>
+        </topicmeta>
+    </keydef>
+    <keydef keys="peripheral_name">
+        <topicmeta>
+            <linktext>Expansion Interface</linktext>
+        </topicmeta>
+    </keydef>
+    <keydef keys="company_name">
+        <topicmeta>
+            <linktext>Radio Shack</linktext>
+        </topicmeta>
+    </keydef>
+</map>

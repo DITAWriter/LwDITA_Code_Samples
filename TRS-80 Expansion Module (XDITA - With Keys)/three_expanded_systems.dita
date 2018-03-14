@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
-  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd" >
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "lw-topic.dtd">
 <topic xml:lang="en-us" id="three_expanded_systems">
    <title>Three Typical E-X-P-A-N-D-E-D Systems</title>
    <shortdesc>Information on the three sets of standard expansion configurations available for the

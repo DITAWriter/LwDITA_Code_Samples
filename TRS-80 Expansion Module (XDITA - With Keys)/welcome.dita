@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
-  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd" ><topic xml:lang="en-us" id="welcome">
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "lw-topic.dtd">
+<topic xml:lang="en-us" id="welcome">
    <title>Welcome to the World of Personal Computing</title>
       <shortdesc>Why you should not be scared of the new world of personal computing!</shortdesc>
       <prolog>

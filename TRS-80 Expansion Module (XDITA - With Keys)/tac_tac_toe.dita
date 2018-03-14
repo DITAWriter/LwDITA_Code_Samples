@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
-  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd" >
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "lw-topic.dtd">
 <topic xml:lang="en-us" id="tac_tac_toe">
       <title>Tic-Tac-Toe</title>
       <shortdesc>How to play the tic-tac-toe game on your TRS-80.</shortdesc>

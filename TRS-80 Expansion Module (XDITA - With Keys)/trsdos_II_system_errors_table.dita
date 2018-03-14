@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
-  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd" >
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "lw-topic.dtd">
 <topic xml:lang="en-us" id="trsdos_II_system_errors_table">
    <title>TRSDOS-II System Errors Table</title>
    <shortdesc>List of the possible TRSDOS-II error messages you may encounter when using the
