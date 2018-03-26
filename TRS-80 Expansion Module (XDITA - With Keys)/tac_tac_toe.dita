@@ -25,11 +25,11 @@
                         <codeph>ENTER</codeph>. When the game is over, press <codeph>ENTER</codeph>
                   to play again.</p>
             <p>Sample Game:</p>
-            <ph>
+            <p>
                   <image href="images/sample_game.jpg">
                         <alt>Sample Game</alt>
                   </image>
                   <ph>Sample Game</ph>
-            </ph>
+            </p>
       </body>
 </topic>
