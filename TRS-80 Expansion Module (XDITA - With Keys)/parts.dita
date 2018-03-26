@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "lw-topic.dtd">
 <topic xml:lang="en-us" id="parts">
+   <title>Parts List</title>
    <shortdesc>The individual parts and corresponding part numbers that describe the full set of
       peripheral devices available for the TRS-80 computer. Useful if you ever need to order a new
       or replacement part from Tandy.</shortdesc>
    <prolog>
       <data name="author" value="Sheri Alvarez"/>
    </prolog>
-   <title>Parts List</title>
    <body>
       <simpletable>
          <sthead>
