@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_clx_tz4_s2b">
+    <title>Additional Information</title>
+    <shortdesc>Addition information about what you can do with your <ph keyref="peripheral_name"/>, how to order replacement parts, and detailed information on its electrical connections.</shortdesc>
+    <prolog>
+        <data name="author" value="Reginald Sutton"/>
+    </prolog>
+    <conbody>
+        <p>Possibly, you will not need all of the expansion modules that are available but, we have
+            supplied you with Hoods for cable connectors for a complete expansion system. Use the Hoods
+            as illustrated to prevent accidental mismatch between the edge connectors on the PCB and
+            the cable connectors.</p>
+        <p>In the event that you lose a Door or Hood and want to replace it, we have given you a Parts
+            List. You may refer to the Parts List and exploded diagrams to determine its Part Number.
+            You can order replacement parts through your local <ph keyref="company_name"/> store.</p>
+        <p>You must have a LEVEL II BASIC <ph keyref="computer_model"/> Microcomputer to utilize the
+            <ph keyref="computer_model"/>
+            <ph keyref="peripheral_name"/>, the Line Printer and the Mini-Disk modules. If you have a
+            LEVEL I BASIC machine, it must be modified to accept LEVEL II programs. The Screen Printer
+            is the only expansion module that may be connected directly to the <ph
+                keyref="computer_model"/> Microcomputer and that will operate with LEVEL I machines.</p>
+        <p>We are continually improving and updating our <ph keyref="computer_model"/> Microcomputer
+            System. You will be kept informed through our Newsletters (you are on the mailing list),
+            addenda and revisions to the Manual.</p>
+        <p>For the complete Electrical Connections Block Diagram, see the concluding figure below
+            describing the maximum possible set of peripheral devices that can be connected via the
+            expansion interface.</p>
+        <div>
+            <fig><title>Rear View—Interface Connections</title><image href="images/rear_view_interface_connections.png"/></fig>
+        </div>            
+        <div>
+            <fig><title>Placement of Expansion Interface</title><image href="images/placement_of_expansion_interface.jpg"/></fig>
+        </div> 
+        <div>
+            <fig><title>TRS-80 Microcomputer System Without Expansion Interface</title><image href="images/schematic_of_system_without_expansion.png"/></fig>
+        </div> 
+        <div>
+            <fig><title>Electrical Connections Block Diagram. TRS-80 Microcomputer System with
+                Expansion Interface</title><image href="images/schematic_of_system_with_expansion.png"/></fig>
+        </div> 
+
+    </conbody>
+</concept>

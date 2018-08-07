@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="cassette_drive">
+    <glossterm>Cassette drive</glossterm>
+    <glossdef>A standard tape recorder used to save (record) or load (retrieve) computer
+        information.</glossdef>
+</glossentry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Opening_Port_Doors">
+    <title>Opening the Port Doors</title>
+    <shortdesc>How to open the port doors and their locations.</shortdesc>
+    <prolog>
+        <data name="author" value="Kelley Mitchell"/>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>The term "port" as used in this manual refers to the openings into which the Cable
+                connectors are inserted to provide an interconnection between the and the modules.
+                The ports, with the exception of the port, are also covered by removable Doors.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>To remove these Doors, press on the right side of the Door and it will pivot
+                    slightly.</cmd>
+            </step>
+            <step>
+                <cmd>Grasp the left side of the Door and pull out (see the following figure for
+                    locations).</cmd>
+                <info><fig>
+                        <title>Expansion Interface, Front View—Doors Removed</title>
+                        <image href="images/expansion_with_doors_removed.png"/>
+                    </fig></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

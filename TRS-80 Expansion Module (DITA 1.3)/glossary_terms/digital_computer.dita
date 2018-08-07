@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="digital_computer">
+    <glossterm>Digital computer</glossterm>
+    <glossdef>A computer that uses a series of electronic offs and ons to represent information.
+        These offs and ons are converted to (or from) binary numbers. The <keyword keyref="computer_model"/> is a digital computer.</glossdef>
+</glossentry>

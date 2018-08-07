@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="three_expanded_systems">
+   <title>Three Typical E-X-P-A-N-D-E-D Systems</title>
+   <shortdesc>Information on the three sets of standard expansion configurations available for the
+      TRS-80.</shortdesc>
+   <prolog>
+      <data name="author" value="Kevin Lewis"/>
+   </prolog>
+   <conbody>
+      <section>
+         <title>4K "EDUCATOR" System</title>
+         <p>The "EDUCATOR" System includes our screen printer for a "hard copy" computing system
+            useful in keeping track of household records and point-of-sale receipts. In addition,
+            the "EDUCATOR" is ideally suited for computer-assisted instruction programs. </p>
+         <p>INCLUDES: </p>
+         <ul>
+            <li><ph keyref="computer_model"/> with 4K RAM, Level-I BASIC (26-1001)</li>
+            <li>12" Video Display (26-1201)</li>
+            <li>Realistic® CTR-41 Cassette Recorder (14-841)</li>
+            <li>
+               <ph keyref="computer_model"/> Screen Printer (26-1151)</li>
+            <li><ph keyref="computer_model"/> "PROFESSIONAL" SYSTEM</li>
+         </ul>
+         <fig>
+            <title>4K 'EDUCATOR' System</title><image href="images/educator_system.jpg"/>
+         </fig>
+      </section>
+      <section>
+         <title>16K "PROFESSIONAL" System</title>
+         <p>"PROFESSIONAL" System offers 16K RAM, mini-disk system, and a screen printer for
+            applications in science and engineering, clinical laboratories, statistical analysis,
+            and software development. A major plus of this is its potential to eliminate expensive
+            "on-line" costs. </p>
+         <p>INCLUDES:</p>
+         <ul>
+            <li><ph keyref="computer_model"/> with 16K RAM, Level-II BASIC (26-1006)</li>
+            <li>12" Video Display (26-1201)</li>
+            <li>CT-41 Recorder (14-841)</li>
+            <li><ph keyref="computer_model"/> Screen Printer (26-1151)</li>
+            <li><ph keyref="computer_model"/>
+               <ph keyref="peripheral_name"/> (26-1140)</li>
+            <li><ph keyref="computer_model"/> Mini-Disk System (26-1160)</li>
+         </ul>
+         <fig><title>16K 'PROFESSIONAL' System</title><image href="images/professional_system.jpg"/></fig>
+      </section>
+      <section>
+         <title>32K "BUSINESS" SYSTEM</title>
+         <p>A line printer and two mini-disk units are featured in the "BUSINESS" System. Possible
+            applications include general ledger and payroll, accounts receivable/accounts payable,
+            inventory control, mailing lists, sales and market analysis, and use in medical and
+            dental offices. </p>
+         <p>INCLUDES:</p>
+         <ul>
+            <li><ph keyref="computer_model"/> with 16K RAM, Level-II BASIC (26-1006) - 12" Video
+               Display (26-1201)</li>
+            <li>CTR-41 Recorder (14-841)</li>
+            <li><ph keyref="computer_model"/> Line Printer (26-1150)</li>
+            <li><ph keyref="computer_model"/>
+               <ph keyref="peripheral_name"/> (26-1140)</li>
+            <li>Two <ph keyref="computer_model"/> Mini-Disk Systems (26-1160)</li>
+            <li>16K RAM Memory Option (26-1101)</li>
+         </ul>
+            <fig><title>32K 'BUSINESS' SYSTEM</title><image href="images/business_system.jpg"/></fig>
+         <p>For more information, please see our instructive video about the <ph
+               keyref="computer_model"/>'s capabilities: </p>
+         <p><object data="https://www.youtube.com/watch?v=0xW_4NXU3jI"
+               outputclass="iframe"
+            />
+         </p>
+      </section>
+   </conbody>
+</concept>

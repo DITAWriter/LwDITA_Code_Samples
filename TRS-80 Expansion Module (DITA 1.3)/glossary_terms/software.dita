@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="software">
+    <glossterm>Software</glossterm>
+    <glossdef>The programs and data used to control a computer. Software is available in many
+        forms. You can type the program in yourself or you can have it transmitted to you
+        over the telephone. You can also get it on cassette, diskette, or cartridge.</glossdef>
+</glossentry>

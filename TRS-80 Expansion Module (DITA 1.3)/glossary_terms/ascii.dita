@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="ascii">
+    <glossterm>ASCII</glossterm>
+    <glossdef>A simple code system that converts symbols and numbers into numbers the computer
+        can understand. For instance, when you type "a" on the keyboard of your computer,
+        the binary number 01100001 is sent to computer's central processing unit (CPU).
+        The CPU then displays the letter a on the screen.</glossdef>
+</glossentry>

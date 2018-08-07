@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="parts">
+   <title>Parts List</title>
+   <shortdesc>The individual parts and corresponding part numbers that describe the full set of
+      peripheral devices available for the TRS-80 computer. Useful if you ever need to order a new
+      or replacement part from Tandy.</shortdesc>
+   <prolog>
+      <data name="author" value="Sheri Alvarez"/>
+   </prolog>
+   <refbody>
+
+      <table frame="all" rowsep="1" colsep="1" id="expansion_interface_table">
+         <title>Expansion Interface</title>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <thead>
+               <row>
+                  <entry>EXPANSION INTERFACE</entry>
+                  <entry>#</entry>
+               </row>
+            </thead>
+            <tbody>
+         <row>
+            <entry>Door, Mini-Disk</entry>
+            <entry>1400212</entry>
+         </row>
+         <row>
+            <entry>Door, Line Printer</entry>
+            <entry>1400212</entry>
+         </row>
+         <row>
+            <entry>Door, Screen Printer</entry>
+            <entry>1400216</entry>
+         </row>
+         <row>
+            <entry>Door, Future Expansion Board</entry>
+            <entry>1400216</entry>
+         </row>
+         <row>
+            <entry>Hood, Mini-Disk</entry>
+            <entry>1400213</entry>
+         </row>
+         <row>
+            <entry>Hood, Line Printer</entry>
+            <entry>1400213</entry>
+         </row>
+         <row>
+            <entry>Hood, Screen Printer</entry>
+            <entry>1400218</entry>
+         </row>
+         <row>
+            <entry>Hood, Future Expansion Board</entry>
+            <entry>1400218</entry>
+         </row>
+         <row>
+            <entry>Hood, Microcomputer System</entry>
+            <entry>1400214</entry>
+         </row>
+            </tbody>
+         </tgroup>
+      </table>
+      
+      <table frame="all" rowsep="1" colsep="1" id="microcomputer_system_table">
+         <title>Microcomputer System</title>
+         <tgroup cols="2">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <thead>
+               <row>
+                  <entry>MICROCOMPUTER SYSTEM</entry>
+                  <entry>#</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Door</entry>
+                  <entry>1400083</entry>
+               </row>
+               <row>
+                  <entry>Hood</entry>
+                  <entry>1400217</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+
+
+   </refbody>
+</reference>

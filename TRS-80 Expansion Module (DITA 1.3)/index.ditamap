@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bookmap
+  PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap id="trs80_manual" collection-type="sequence">
+    <booktitle>
+        <mainbooktitle>
+            <ph>TRS-80 Expansion Interface Expansion Pack, Error Messages and Sample Game Code</ph>
+        </mainbooktitle>
+        <booktitlealt>User Guide</booktitlealt>
+    </booktitle>
+    <bookmeta>
+        <author>Calvin Tucker</author>
+        <author>Jerry Cleborne</author>
+        <author>Kelley Mitchell</author>
+        <author>Kevin Lewis</author>
+        <author>Marvin Walker</author>
+        <author>Reginald Sutton</author>
+        <author>Sheri Alvarez</author>
+        <author>Sylvia Yates</author>
+        <author>Thomas Price</author>
+        <author>Wilson Rodriquez</author>
+        <bookrights>
+            <bookowner>
+                <organization>archive.org</organization>
+                <organization>DITAWriter.com</organization>
+                <organization>Project Gutenberg</organization>
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter collection-type="sequence">
+        <mapref href="keystore.map" processing-role="resource-only"/>
+        <topicref href="front.dita" type="topic" format="dita"/>
+        <booklists>
+            <toc/>
+        </booklists>
+    </frontmatter>
+
+    <chapter href="welcome.dita" type="concept" format="dita">
+        <topicref href="three_expanded_systems.dita" type="concept" format="dita"/>
+        <topicref href="new_expansion.dita" type="concept" format="dita"/>
+    </chapter>
+    <chapter href="introduction.dita" type="concept" format="dita">
+        <topicref href="capabilities_and_advantages.dita" type="concept" format="dita"/>
+        <topicref href="opening_port_doors.dita" type="task" format="dita"/>
+        <topicref href="setting_up_power_supply.dita" type="task" format="dita"/>
+        <topicref href="electrical_connections.dita" type="task" format="dita"/>
+        <topicref href="operation.dita" type="task" format="dita"/>
+    </chapter>
+    <chapter href="additional_info.dita" type="concept" format="dita">
+        <topicref href="parts.dita" type="reference" format="dita"/>
+        <topicref href="error_messages.dita" type="reference" format="dita"/>
+        <topicref href="model_II_boot_errors_table.dita" type="reference" format="dita"/>
+        <topicref href="trsdos_II_system_errors_table.dita" type="reference" format="dita"/>
+        <topicref href="tac_tac_toe.dita" type="concept" format="dita"/>
+        <topicref href="tic_tac_toe_code.dita" type="reference" format="dita"/>
+    </chapter>
+    <chapter navtitle="Glossary" locktitle="yes">
+        <mapref href="glossary.map" collection-type="sequence"/>
+    </chapter>
+    <backmatter>
+        <booklists>
+            <indexlist/>
+        </booklists>
+        <notices href="limited_warranty.dita" type="topic" format="dita">
+            <topicmeta>
+                <shortdesc>Warranty Information</shortdesc>
+            </topicmeta>
+        </notices>
+    </backmatter>
+</bookmap>

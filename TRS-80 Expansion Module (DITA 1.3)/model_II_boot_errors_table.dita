@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="model_II_boot_errors_table">
+   <title>Model II Boot Errors Table</title>
+   <shortdesc>List of the possible error messages you may encounter when using the TRS-80 upon
+      boot-up.</shortdesc>
+   <prolog>
+      <data name="author" value="Wilson Rodriquez"/>
+   </prolog>
+   <refbody>
+      <table frame="all" rowsep="1" colsep="1" id="model_ii_boot_errors_table">
+         <title>Model II Boot Errors Table</title>
+         <tgroup cols="3">
+            <colspec colname="c1" colnum="1"/>
+            <colspec colname="c2" colnum="2"/>
+            <colspec colname="c3" colnum="3"/>
+            <thead>
+               <row>
+                  <entry>Error</entry>
+                  <entry>Message</entry>
+                  <entry>Explanation/Action</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>BOOT ERROR CK</entry>
+                  <entry>Checksum error – possibly a defective ROM.</entry>
+                  <entry>Contact RSSC.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR CT</entry>
+                  <entry>Defective CTC chip.</entry>
+                  <entry>Contact RSSC.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR DC</entry>
+                  <entry>Floppy disk controller error. <ol>
+                        <li>Defective diskette.</li>
+                        <li>Floppy disk expansion unit not on.</li>
+                        <li>Defective FDC Chip or Drive.</li>
+                     </ol>
+                  </entry>
+                  <entry>
+                     <ol>
+                        <li>Try a different diskette.</li>
+                        <li>Turn on the floppy disk expansion unit.</li>
+                        <li>Contact RSSC.</li>
+                     </ol>
+                  </entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR DM</entry>
+                  <entry>DMA chip failure.</entry>
+                  <entry>DMA chip failure.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR D0</entry>
+                  <entry>Drive not ready. <ol>
+                        <li>Improperly inserted diskette.</li>
+                        <li>Defective diskette.</li>
+                        <li>Defective drive.</li>
+                     </ol>
+                  </entry>
+                  <entry>
+                     <ol>
+                        <li>Insert the diskette again and press .</li>
+                        <li>Try a different diskette. </li>
+                        <li>Contact RSSC.</li>
+                     </ol>
+                  </entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR HA</entry>
+                  <entry>Controller error. Aborted command: Problem during boot-up of hard
+                     disk.</entry>
+                  <entry>Re-initialize the hard disk or contact RSSC.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR HC</entry>
+                  <entry>CRC error. Invalid data in data field.</entry>
+                  <entry>Re-initialize the hard disk or contact RSSC.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR HD</entry>
+                  <entry>Controller error. Busy not reset.</entry>
+                  <entry>
+                     <ol>
+                        <li>Re-initialize the hard disk.</li>
+                        <li>Power down, wait 10 seconds, and power up.</li>
+                     </ol> If the error occurs again, contact RSSC.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR HI</entry>
+                  <entry>CRC error. Invalid data in ID field.</entry>
+                  <entry>Re-initialize the hard disk.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR HM</entry>
+                  <entry>Data address mark not found.</entry>
+                  <entry>Re-initialize the hard disk.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR HN</entry>
+                  <entry>ID not found. No Boot Track.</entry>
+                  <entry>Re-initialize the hard disk.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR H0</entry>
+                  <entry>Track 0 error on hard disk. <ol>
+                        <li>Didn’t find Track 0 before time-out.</li>
+                        <li>Secondary hard disk drives not turned on.</li>
+                     </ol>
+                  </entry>
+                  <entry>
+                     <ol>
+                        <li>Press RESET.</li>
+                        <li>Turn on your secondary hard disk drives.</li>
+                     </ol>
+                  </entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR HT</entry>
+                  <entry>Time-out while waiting for Ready. <ol>
+                        <li>Hard disk drive not powered up.</li>
+                        <li>Hard disk drive isn’t turned on and ready within 10 seconds after the
+                           computer.</li>
+                        <li>Hard disk drive is disconnected.</li>
+                     </ol>
+                  </entry>
+                  <entry>
+                     <ol>
+                        <li>Follow correct procedure: Turn on the hard disk first.</li>
+                        <li>Press RESET.</li>
+                        <li>Connect the hard disk drive or operate under floppy disk control.</li>
+                     </ol>
+                  </entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR LD</entry>
+                  <entry>Lost data during read – FDC (floppy disk controller) or drive
+                     fault.</entry>
+                  <entry>Try another TRSDOS-II diskette or contact RSSC.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR MF</entry>
+                  <entry>Memory failure in address range X’1000'-X’7FFF'.</entry>
+                  <entry>Contact RSSC.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR MH</entry>
+                  <entry>Memory failure in address range X’8000'-X’FFFF'.</entry>
+                  <entry>Contact RSSC.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR ML</entry>
+                  <entry>Memory failure in address range X’0000'-X’0FFF'.</entry>
+                  <entry>Contact RSSC.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR PI</entry>
+                  <entry>Defective PIO Chip.</entry>
+                  <entry>Turn on the expansion bay if it is off. If the error occurs again, contact
+                     RSSC.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR RS</entry>
+                  <entry>The diskette in Drive 0 is not <ph keyref="company_name"/> operating system
+                     format.</entry>
+                  <entry>Insert a TRSDOS-II formatted diskette into Drive 0 and press RESET.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR SC</entry>
+                  <entry>CRC Error. Invalid data on diskette or defective diskette.</entry>
+                  <entry>Try a different diskette.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR TK</entry>
+                  <entry>Record not found bootstrap track. Improperly formatted or defective
+                     diskette.</entry>
+                  <entry>Re-format your diskette or try a different diskette.</entry>
+               </row>
+               <row>
+                  <entry>BOOT ERROR Z8</entry>
+                  <entry>Defective CPU.</entry>
+                  <entry>Contact RSSC.</entry>
+               </row>
+               <row>
+                  <entry>NOT A SYSTEM DISK</entry>
+                  <entry>Diskette in Drive 0 isn’t a TRSDOS-II operating system diskette.</entry>
+                  <entry>Insert a TRSDOS-II operating system diskette into Drive 0.</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <!--
+      <refbodydiv>
+         <data>
+            <p conref="conref.dita#conref/contact"> </p>
+         </data>
+      </refbodydiv>
+-->
+</refbody>
+</reference>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="setting_up_power_supply">
+    <title>Setting Up the Power Supply</title>
+    <shortdesc>How to properly set up the power for the TRS-80 Expansion Interface.</shortdesc>
+    <prolog>
+        <data name="author" value="Kelley Mitchell"/>
+    </prolog>
+    <taskbody>
+        <context>
+            <note type="important">Install the expansion DC power supply first.</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Remove the Power Supply Door (top right side).</cmd>
+            </step>
+            <step>
+                <cmd>Connect one DC power cord (DIN
+                    connector) to the Power connector on the PCB.</cmd>
+            </step>
+            <step>
+                <cmd>Install the two DC Power Supplies as
+                    illustrated.</cmd><info><fig><title>Power Supplies and Future Expansion PCB Locations</title><image href="images/future_expansion_locations.png"></image></fig></info>
+            </step>
+            <step>
+                <cmd>Route the remaining cords out the rear of the case. Be sure the power cords
+                    are seated in the door cutouts before replacing the Door.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

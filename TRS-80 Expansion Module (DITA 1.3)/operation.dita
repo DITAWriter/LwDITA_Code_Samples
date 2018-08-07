@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="operation">
+    <title>Turning the Power On</title>
+    <shortdesc>What you need to know about power states for the TRS-80 expansion module.</shortdesc>
+    <prolog>
+        <data name="author" value="Sheri Alvarez"/>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>The Power switch is recessed into the front of the <ph keyref="peripheral_name"/> to
+                prevent accidental loss of power.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Apply power to the <ph keyref="peripheral_name"/>. Activate the switch with the eraser-end of a pencil or
+                    small tool of similar size.</cmd>
+            </step>
+        </steps>
+        <result>The light at the end surface of the switch will change to orange.</result>
+    </taskbody>
+</task>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="cassette">
+    <glossterm>Cassette</glossterm>
+    <glossdef>A small plastic cartridge that has magnetic tape inside. It has two reels. The tape
+        on one reel is wound onto the other reel. Computer programs can be stored on a
+        standard audio cassette.</glossdef>
+</glossentry>

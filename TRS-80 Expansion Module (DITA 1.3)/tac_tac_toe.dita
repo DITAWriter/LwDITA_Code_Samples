@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="tac_tac_toe">
+      <title>Tic-Tac-Toe</title>
+      <shortdesc>How to play the tic-tac-toe game on your TRS-80.</shortdesc>
+      <prolog>
+            <data name="author" value="Marvin Walker"/>
+      </prolog>
+      <conbody>
+            <p>Tic-Tac-Toe is an exciting and challenging variation of the old school-yard pastime,
+                  with the same objective of the regular game, but requiring the logic and foresight
+                  of chess.</p>
+            <p>The squares of the Tic-Tac-Toe board are randomly numbered 1 through 9, and the
+                  player and the computer take turns moving. On the first turn, it is exactly like
+                  the regular game, but on the second turn all pieces shift to the next sequential
+                  number.</p>
+            <p>That is, if the Computer opened the game by placing an O in square 5 and you
+                  responded by putting an X in square 2, then the board would be re-drawn with an O
+                  in square 6 and an X in square 3. Continuing with this example, let’s say the
+                  Computer next plays to square 8 and you put your mark in square 9, then the
+                  redrawn board will have O’s in squares 7 and 9 and the X’s will be in squares 4
+                  and 1 (after 9 the sequence returns to 1). The first to get three in a row
+                  wins.</p>
+            <p>When your turn comes during play, type the number of the desired square and press
+                        <codeph>ENTER</codeph>. When the game is over, press <codeph>ENTER</codeph>
+                  to play again.</p>
+            <p>Sample Game:</p>
+            <p>
+                  <image href="images/sample_game.jpg">
+                        <alt>Sample Game</alt>
+                  </image>
+                  <ph>Sample Game</ph>
+            </p>
+      </conbody>
+</concept>

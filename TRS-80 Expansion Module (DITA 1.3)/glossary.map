@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="glossary">
+    <title>Glossary of Terms</title>
+    <topicmeta>
+        <shortdesc>A list of some of the computer-related terms you may run across while operating the
+           <ph keyref="computer_model"/> computer.</shortdesc>
+        <author>Jerry Cleborne</author>
+    </topicmeta>
+    <glossref href="glossary_terms/alphanumeric.dita" keys="glossentry_alphanumeric" print="yes" toc="yes" />
+    <glossref href="glossary_terms/ascii.dita" keys="glossentry_ascii" print="yes" toc="yes" />
+    <glossref href="glossary_terms/baud.dita" keys="glossentry_baud" print="yes" toc="yes" />
+    <glossref href="glossary_terms/cartridge.dita" keys="glossentry_cartridge" print="yes" toc="yes" />
+    <glossref href="glossary_terms/cassette.dita" keys="glossentry_cassette" print="yes" toc="yes" />
+    <glossref href="glossary_terms/cassette_drive.dita" keys="glossentry_cassette_drive" print="yes" toc="yes" />
+    <glossref href="glossary_terms/cathode_ray_tube.dita" keys="glossentry_cathode_ray_tube" print="yes" toc="yes" />
+    <glossref href="glossary_terms/daisy_wheel_printer.dita" keys="glossentry_daisy_wheel_printer" print="yes" toc="yes" />
+    <glossref href="glossary_terms/digital_computer.dita" keys="glossentry_digital_computer" print="yes" toc="yes" />
+    <glossref href="glossary_terms/disk.dita" keys="glossentry_disk" print="yes" toc="yes" />
+    <glossref href="glossary_terms/diskette.dita" keys="glossentry_diskette" print="yes" toc="yes" />
+    <glossref href="glossary_terms/documentation.dita" keys="glossentry_documentation" print="yes" toc="yes" />
+    <glossref href="glossary_terms/electronic_mail.dita" keys="glossentry_electronic_mail" print="yes" toc="yes" />
+    <glossref href="glossary_terms/function_key.dita" keys="glossentry_function_key" print="yes" toc="yes" />
+    <glossref href="glossary_terms/jack.dita" keys="glossentry_jack" print="yes" toc="yes" />
+    <glossref href="glossary_terms/load.dita" keys="glossentry_load" print="yes" toc="yes" />
+    <glossref href="glossary_terms/mass_storage.dita" keys="glossentry_mass_storage" print="yes" toc="yes" />
+    <glossref href="glossary_terms/microprocessor.dita" keys="glossentry_microprocessor" print="yes" toc="yes" />
+    <glossref href="glossary_terms/modem.dita" keys="glossentry_modem" print="yes" toc="yes" />
+    <glossref href="glossary_terms/monitor.dita" keys="glossentry_monitor" print="yes" toc="yes" />
+    <glossref href="glossary_terms/mylar.dita" keys="glossentry_mylar" print="yes" toc="yes" />
+    <glossref href="glossary_terms/peripheral.dita" keys="glossentry_peripheral" print="yes" toc="yes" />
+    <glossref href="glossary_terms/read_only_memory.dita" keys="glossentry_read_only_memory" print="yes" toc="yes" />
+    <glossref href="glossary_terms/silicon.dita" keys="glossentry_silicon" print="yes" toc="yes" />
+    <glossref href="glossary_terms/software.dita" keys="glossentry_software" print="yes" toc="yes" />
+    <glossref href="glossary_terms/users_manual.dita" keys="glossentry_users_manual" print="yes" toc="yes" />
+    <glossref href="glossary_terms/video_display.dita" keys="glossentry_video_display" print="yes" toc="yes" />
+    <glossref href="glossary_terms/window.dita" keys="glossentry_window" print="yes" toc="yes" />
+    <!-- Definitions derived from: Things To Do with your TRS-80 Model 100 Computer by Willis, Jerry; Miller, Merl; Maddux, Cleborne D. -->
+    <!-- Available from Archive.org at: https://archive.org/details/ThingsToDoWithYourTrs80Model100Computer -->
+</map>

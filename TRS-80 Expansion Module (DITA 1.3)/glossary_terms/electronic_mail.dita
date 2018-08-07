@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="electronic_mail">
+    <glossterm>Electronic mail</glossterm>
+    <glossdef>Personal or other messages generated on computer and transmitted to another computer
+        at a different location. The computers are connected by phone lines.</glossdef>
+</glossentry>

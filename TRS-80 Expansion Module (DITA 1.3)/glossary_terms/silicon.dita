@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="silicon">
+    <glossterm>Silicon</glossterm>
+    <glossdef>A nonmetallic chemical element resembling carbon. It is used in the manufacture of
+        transistors, solar cells, etc.</glossdef>
+</glossentry>

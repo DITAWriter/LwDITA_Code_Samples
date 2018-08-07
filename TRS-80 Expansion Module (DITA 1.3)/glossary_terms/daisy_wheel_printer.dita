@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="daisy_wheel_printer">
+    <glossterm>Daisy wheel printer</glossterm>
+    <glossdef>A printing machine whose print head has a number (usually 96) of radial arms or
+        petals. Each petal has a type character on the end. Daisy wheel type is equal to or
+        better than most typewriter type.</glossdef>
+</glossentry>

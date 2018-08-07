@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="disk">
+    <glossterm>Disk</glossterm>
+    <glossdef>A piece of flat rotating circular mylar that is coated with magnetic material. It is
+        used to store computer information.</glossdef>
+</glossentry>
