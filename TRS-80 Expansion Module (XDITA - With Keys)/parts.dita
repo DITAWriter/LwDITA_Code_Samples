@@ -11,59 +11,59 @@
    <body>
       <simpletable>
          <sthead>
-            <stentry>EXPANSION INTERFACE</stentry>
-            <stentry># </stentry>
+            <stentry><p>EXPANSION INTERFACE</p></stentry>
+            <stentry><p># </p></stentry>
          </sthead>
          <strow>
-            <stentry>Door, Mini-Disk</stentry>
-            <stentry>1400212</stentry>
+            <stentry><p>Door, Mini-Disk</p></stentry>
+            <stentry><p>1400212</p></stentry>
          </strow>
          <strow>
-            <stentry>Door, Line Printer</stentry>
-            <stentry>1400212</stentry>
+            <stentry><p>Door, Line Printer</p></stentry>
+            <stentry><p>1400212</p></stentry>
          </strow>
          <strow>
-            <stentry>Door, Screen Printer</stentry>
-            <stentry>1400216</stentry>
+            <stentry><p>Door, Screen Printer</p></stentry>
+            <stentry><p>1400216</p></stentry>
          </strow>
          <strow>
-            <stentry>Door, Future Expansion Board</stentry>
-            <stentry>1400216</stentry>
+            <stentry><p>Door, Future Expansion Board</p></stentry>
+            <stentry><p>1400216</p></stentry>
          </strow>
          <strow>
-            <stentry>Hood, Mini-Disk</stentry>
-            <stentry>1400213</stentry>
+            <stentry><p>Hood, Mini-Disk</p></stentry>
+            <stentry><p>1400213</p></stentry>
          </strow>
          <strow>
-            <stentry>Hood, Line Printer</stentry>
-            <stentry>1400213</stentry>
+            <stentry><p>Hood, Line Printer</p></stentry>
+            <stentry><p>1400213</p></stentry>
          </strow>
          <strow>
-            <stentry>Hood, Screen Printer</stentry>
-            <stentry>1400218</stentry>
+            <stentry><p>Hood, Screen Printer</p></stentry>
+            <stentry><p>1400218</p></stentry>
          </strow>
          <strow>
-            <stentry>Hood, Future Expansion Board</stentry>
-            <stentry>1400218</stentry>
+            <stentry><p>Hood, Future Expansion Board</p></stentry>
+            <stentry><p>1400218</p></stentry>
          </strow>
          <strow>
-            <stentry>Hood, <ph/> Microcomputer System</stentry>
-            <stentry>1400214</stentry>
+            <stentry><p>Hood, <ph/> Microcomputer System</p></stentry>
+            <stentry><p>1400214</p></stentry>
          </strow>
       </simpletable>
 
       <simpletable>
          <sthead>
-            <stentry>MICROCOMPUTER SYSTEM</stentry>
-            <stentry># </stentry>
+            <stentry><p>MICROCOMPUTER SYSTEM</p></stentry>
+            <stentry><p># </p></stentry>
          </sthead>
          <strow>
-            <stentry>Door</stentry>
-            <stentry>1400083</stentry>
+            <stentry><p>Door</p></stentry>
+            <stentry><p>1400083</p></stentry>
          </strow>
          <strow>
-            <stentry>Hood</stentry>
-            <stentry>1400217</stentry>
+            <stentry><p>Hood</p></stentry>
+            <stentry><p>1400217</p></stentry>
          </strow>
       </simpletable>
    </body>

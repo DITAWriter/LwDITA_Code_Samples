@@ -26,31 +26,33 @@
       <p>For the complete Electrical Connections Block Diagram, see the concluding figure below
          describing the maximum possible set of peripheral devices that can be connected via the
          expansion interface.</p>
-      <div>
+      <fig>
+         <title>FIGURE 5. Rear View—Interface Connections.</title>
          <image href="images/rear_view_interface_connections.png">
             <alt>FIGURE 5. Rear View—Interface Connections.</alt>
          </image>
-         <ph>FIGURE 5. Rear View—Interface Connections.</ph>
-      </div>
-      <div>
+      </fig>
+      <fig>
+         <title>FIGURE 6. Placement of Expansion Interface</title>
          <image href="images/placement_of_expansion_interface.jpg">
             <alt>FIGURE 6. Placement of Expansion Interface</alt>
          </image>
-         <ph>FIGURE 6. Placement of Expansion Interface</ph>
-      </div>
-      <div>
+      </fig>
+    <fig>
+       <title>TRS-80 Microcomputer System Without Expansion Interface</title>
          <image href="images/schematic_of_system_without_expansion.png">
             <alt>TRS-80 Microcomputer System Without Expansion Interface</alt>
          </image>
-         <ph>TRS-80 Microcomputer System Without Expansion Interface</ph>
-      </div>
-      <div>
+         
+    </fig>
+      <fig>
+         <title>FIGURE 7. Electrical Connections Block Diagram. TRS-80 Microcomputer System with
+            Expansion Interface</title>
          <image href="images/schematic_of_system_with_expansion.png">
             <alt>FIGURE 7. Electrical Connections Block Diagram. TRS-80 Microcomputer System with
                Expansion Interface</alt>
          </image>
-         <ph>FIGURE 7. Electrical Connections Block Diagram. TRS-80 Microcomputer System with
-            Expansion Interface</ph>
-      </div>
+       
+      </fig>
    </body>
 </topic>

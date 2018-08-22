@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80 Expansion Module (XDITA - With Keys)/temp/pdf?><?workdir-uri file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/temp/pdf/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD LIGHTWEIGHT DITA Topic//EN?><?doctype-system lw-topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xml:lang="en-us" id="setting_up" ditaarch:DITAArchVersion="1.3" domains="(topic xdita-c) (topic hi-d) (topic h5m-d)" class="- topic/topic " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="topic:1;3:41">
+   <title class="- topic/title " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="title:1;4:11">Setting Up</title>
+   <shortdesc class="- topic/shortdesc " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="shortdesc:1;5:15">How to properly set up the power for the TRS-80 Expansion Interface.</shortdesc>
+   <prolog class="- topic/prolog " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="prolog:1;6:12">
+      <data name="author" value="Kelley Mitchell" class="- topic/data " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="data:1;7:52"/>
+   </prolog>
+   <body class="- topic/body " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="body:1;9:10">
+      <section class="- topic/section " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="section:1;10:16">
+         <title class="- topic/title " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="title:2;11:17">Power Supplies and PCB Housing</title>
+         <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="p:1;12:13">Remove the Power Supply Door (top right side). First connect one DC power cord (DIN
+            connector) to the Power connector on the PCB. Now install the two DC Power Supplies as
+            illustrated. Route the remaining cords out the rear of the case. Be sure the power cords
+            are seated in the door cutouts before replacing the Door.</p>
+         <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="p:2;16:13">To gain access to the future expansion PCB Housing, remove the Expansion Door from the
+            top left side of the module.</p>
+         <fig class="- topic/fig " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="fig:1;18:15">
+            <title class="- topic/title " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="title:3;19:20">FIGURE 2. Power Supplies and Future Expansion PCB Locations.</title>
+            <image href="images/future_expansion_locations.png" class="- topic/image " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="image:1;20:65">
+               <alt class="- topic/alt " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="alt:1;21:21">FIGURE 2. Power Supplies and Future Expansion PCB Locations.</alt>
+            </image>
+           
+         </fig>
+          
+         
+         <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="p:3;27:13">INSTALL EXPANSION INTERFACE DC POWER SUPPLY FIRST.</p>
+         <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="p:4;28:13">The term "port" as used in this manual refers to the openings into which the Cable
+            connectors are inserted to provide an interconnection between the </p>
+         
+         <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="p:5;31:13"> and the </p>
+      
+         <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="p:6;33:13"> modules.</p>
+         <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="p:7;34:13">The ports, with the exception of the port, are also covered by removable Doors. To
+            remove these Doors, press on the right side of the Door and it will pivot slightly.
+            Grasp the left side of the Door and pull out (see the following figure for
+            locations).</p>
+        <fig class="- topic/fig " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="fig:2;38:14">
+           <title class="- topic/title " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="title:4;39:19">FIGURE 3. Expansion Interface, Front View—Doors Removed.</title>
+            <image href="images/expansion_with_doors_removed.png" class="- topic/image " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="image:2;40:67">
+               <alt class="- topic/alt " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/setting_up.dita" xtrc="alt:2;41:21">FIGURE 3. Expansion Interface, Front View—Doors Removed.</alt>
+            </image>
+           
+           
+        </fig>
+         
+         
+      </section>
+   </body>
+</topic>

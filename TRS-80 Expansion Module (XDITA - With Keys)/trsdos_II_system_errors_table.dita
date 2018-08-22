@@ -10,299 +10,299 @@
    <body>
       <simpletable>
 		<sthead>
-            <stentry>Code</stentry>
-            <stentry>Message</stentry>
-            <stentry>Explanation/Action</stentry>
+            <stentry><p>Code</p></stentry>
+            <stentry><p>Message</p></stentry>
+            <stentry><p>Explanation/Action</p></stentry>
 		</sthead>
         <strow>
-            <stentry>0</stentry>
-            <stentry>No Error Found.</stentry>
-            <stentry>No error occurred.</stentry>
+            <stentry><p>0</p></stentry>
+            <stentry><p>No Error Found.</p></stentry>
+            <stentry><p>No error occurred.</p></stentry>
         </strow>
         <strow>
-            <stentry>1</stentry>
-            <stentry>Bad Function Code On SVC Call Or No Function Exists.</stentry>
-            <stentry>Check the function code number used on the SVC call.</stentry>
+            <stentry><p>1</p></stentry>
+            <stentry><p>Bad Function Code On SVC Call Or No Function Exists.</p></stentry>
+            <stentry><p>Check the function code number used on the SVC call.</p></stentry>
         </strow>
         <strow>
-            <stentry>2</stentry>
-            <stentry>Character Not Available.</stentry>
-            <stentry>No record or character was available when you you called the SVC.</stentry>
+            <stentry><p>2</p></stentry>
+            <stentry><p>Character Not Available.</p></stentry>
+            <stentry><p>No record or character was available when you you called the SVC.</p></stentry>
         </strow>
         <strow>
-            <stentry>3</stentry>
-            <stentry>Parameter Error On Call.</stentry>
-            <stentry>Parameter is incorrect or a required parameter is missing.</stentry>
+            <stentry><p>3</p></stentry>
+            <stentry><p>Parameter Error On Call.</p></stentry>
+            <stentry><p>Parameter is incorrect or a required parameter is missing.</p></stentry>
         </strow>
         <strow>
-            <stentry>4</stentry>
-            <stentry>CRC Error During Disk I/O.</stentry>
-            <stentry>Try the operation again, using a different diskette. If the problem occurs
-                     often, contact RSSC.</stentry>
+            <stentry><p>4</p></stentry>
+            <stentry><p>CRC Error During Disk I/O.</p></stentry>
+            <stentry><p>Try the operation again, using a different diskette. If the problem occurs
+                     often, contact RSSC.</p></stentry>
         </strow>
         <strow>
-            <stentry>5</stentry>
-            <stentry>Disk Sector Not Found.</stentry>
-            <stentry>Try a different diskette.</stentry>
+            <stentry><p>5</p></stentry>
+            <stentry><p>Disk Sector Not Found.</p></stentry>
+            <stentry><p>Try a different diskette.</p></stentry>
         </strow>
         <strow>
-            <stentry>6</stentry>
-            <stentry>Attempt To Open A File Which Has Not Been Closed.</stentry>
-            <stentry>Close the file before re-opening.</stentry>
+            <stentry><p>6</p></stentry>
+            <stentry><p>Attempt To Open A File Which Has Not Been Closed.</p></stentry>
+            <stentry><p>Close the file before re-opening.</p></stentry>
         </strow>
         <strow>
-            <stentry>7</stentry>
-            <stentry>Illegal Disk Change. Disk Drive Not Ready.</stentry>
-            <stentry>TRSDOS-II detected an illegal disk swap.</stentry>
+            <stentry><p>7</p></stentry>
+            <stentry><p>Illegal Disk Change. Disk Drive Not Ready.</p></stentry>
+            <stentry><p>TRSDOS-II detected an illegal disk swap.</p></stentry>
         </strow>
         <strow>
-            <stentry>8</stentry>
-            <stentry>Disk Drive Not Ready.</stentry>
-            <stentry>Drive door is open or the diskette is not in the drive. On Thinline drives,
-                     check the DRIVE command settings.</stentry>
+            <stentry><p>8</p></stentry>
+            <stentry><p>Disk Drive Not Ready.</p></stentry>
+            <stentry><p>Drive door is open or the diskette is not in the drive. On Thinline drives,
+                     check the DRIVE command settings.</p></stentry>
         </strow>
         <strow>
-            <stentry>9</stentry>
-            <stentry>Invalid Data Provided By Caller.</stentry>
-            <stentry>Data stream to be processed has illegal characters.</stentry>
+            <stentry><p>9</p></stentry>
+            <stentry><p>Invalid Data Provided By Caller.</p></stentry>
+            <stentry><p>Data stream to be processed has illegal characters.</p></stentry>
         </strow>
         <strow>
-            <stentry>10</stentry>
-            <stentry>Maximum Of 16 Files May Be Open At Once.</stentry>
-            <stentry>Too many files are open at once.</stentry>
+            <stentry><p>10</p></stentry>
+            <stentry><p>Maximum Of 16 Files May Be Open At Once.</p></stentry>
+            <stentry><p>Too many files are open at once.</p></stentry>
         </strow>
         <strow>
-            <stentry>11</stentry>
-            <stentry>File Already In Directory.</stentry>
-            <stentry>Filename already exists as a directory entry. Kill the existing file,
-                     choose another filename, or specify a drive number.</stentry>
+            <stentry><p>11</p></stentry>
+            <stentry><p>File Already In Directory.</p></stentry>
+            <stentry><p>Filename already exists as a directory entry. Kill the existing file,
+                     choose another filename, or specify a drive number.</p></stentry>
         </strow>
         <strow>
-            <stentry>12</stentry>
-            <stentry>No Drive Available For An Open.</stentry>
-            <stentry>No on-line drive <ul>
-                        <li>is write enabled</li>
-                        <li>has enough space to create a new file, or </li>
-                        <li>has a system directory.</li>
+            <stentry><p>12</p></stentry>
+            <stentry><p>No Drive Available For An Open.</p></stentry>
+            <stentry><p>No on-line drive</p> <ul>
+                        <li><p>is write enabled</p></li>
+                        <li><p>has enough space to create a new file, or </p></li>
+                        <li><p>has a system directory.</p></li>
                      </ul>
 			</stentry>
         </strow>
         <strow>
-            <stentry>13</stentry>
-            <stentry>Write Attempt To A Read Only File.</stentry>
-            <stentry>File was opened for read only, not for read/write.</stentry>
+            <stentry><p>13</p></stentry>
+            <stentry><p>Write Attempt To A Read Only File.</p></stentry>
+            <stentry><p>File was opened for read only, not for read/write.</p></stentry>
         </strow>
         <strow>
-            <stentry>14</stentry>
-            <stentry>Write Fault On Disk I/O.</stentry>
-            <stentry>Error occurred during a write operation. Try a different diskette. If the
-                     problem continues, contact RSSC.</stentry>
+            <stentry><p>14</p></stentry>
+            <stentry><p>Write Fault On Disk I/O.</p></stentry>
+            <stentry><p>Error occurred during a write operation. Try a different diskette. If the
+                     problem continues, contact RSSC.</p></stentry>
         </strow>
         <strow>
-            <stentry>15</stentry>
-            <stentry>Disk Is Write Protected.</stentry>
-            <stentry>Write enable the disk.</stentry>
+            <stentry><p>15</p></stentry>
+            <stentry><p>Disk Is Write Protected.</p></stentry>
+            <stentry><p>Write enable the disk.</p></stentry>
         </strow>
         <strow>
-            <stentry>16</stentry>
-            <stentry>DCB Is Modified And Is Unusable.</stentry>
-            <stentry>DCB (used in machine-language programming) has been modified since the last
-                     disk access (while the file was open).</stentry>
+            <stentry><p>16</p></stentry>
+            <stentry><p>DCB Is Modified And Is Unusable.</p></stentry>
+            <stentry><p>DCB (used in machine-language programming) has been modified since the last
+                     disk access (while the file was open).</p></stentry>
         </strow>
         <strow>
-            <stentry>17</stentry>
-            <stentry>Directory Read Error.</stentry>
-            <stentry>Error occurred during an attempt to read the directory. Use a different
-                     diskette. </stentry>
+            <stentry><p>17</p></stentry>
+            <stentry><p>Directory Read Error.</p></stentry>
+            <stentry><p>Error occurred during an attempt to read the directory. Use a different
+                     diskette. </p></stentry>
         </strow>
         <strow>
-            <stentry>18</stentry>
-            <stentry>Directory Write Error.</stentry>
-            <stentry>Error occurred during an attempt to write to the directory. Use a different
-                     diskette. </stentry>
+            <stentry><p>18</p></stentry>
+            <stentry><p>Directory Write Error.</p></stentry>
+            <stentry><p>Error occurred during an attempt to write to the directory. Use a different
+                     diskette. </p></stentry>
         </strow>
         <strow>
-            <stentry>19</stentry>
-            <stentry>Improper File Name (Filespec).</stentry>
-            <stentry>Filespec you gave does not meet TRSDOS-II standard file
-                     specifications.</stentry>
+            <stentry><p>19</p></stentry>
+            <stentry><p>Improper File Name (Filespec).</p></stentry>
+            <stentry><p>Filespec you gave does not meet TRSDOS-II standard file
+                     specifications.</p></stentry>
         </strow>
         <strow>
-            <stentry>20</stentry>
-            <stentry>Unknown Error Code</stentry>
+            <stentry><p>20</p></stentry>
+            <stentry><p>Unknown Error Code</p></stentry>
 			<stentry/>
         </strow>
         <strow>
-            <stentry>21</stentry>
-            <stentry>Unknown Error Code</stentry>
+            <stentry><p>21</p></stentry>
+            <stentry><p>Unknown Error Code</p></stentry>
 			<stentry/>
         </strow>
         <strow>
-            <stentry>22</stentry>
-            <stentry>Unknown Error Code</stentry>
+            <stentry><p>22</p></stentry>
+            <stentry><p>Unknown Error Code</p></stentry>
 			<stentry/>
         </strow>
         <strow>
-            <stentry>23</stentry>
-            <stentry>Unknown Error Code</stentry>
+            <stentry><p>23</p></stentry>
+            <stentry><p>Unknown Error Code</p></stentry>
 			<stentry/>
         </strow>
         <strow>
-            <stentry>24</stentry>
-            <stentry>File Not Found.</stentry>
-            <stentry>Filename you gave was not found on the available disks or the file is the
-                     incorrect type for the desired operation.</stentry>
+            <stentry><p>24</p></stentry>
+            <stentry><p>File Not Found.</p></stentry>
+            <stentry><p>Filename you gave was not found on the available disks or the file is the
+                     incorrect type for the desired operation.</p></stentry>
         </strow>
         <strow>
-            <stentry>25</stentry>
-            <stentry>File Access Denied Due To Password Protection.</stentry>
-            <stentry>You gave an incorrect password. See the ATTRIB command.</stentry>
+            <stentry><p>25</p></stentry>
+            <stentry><p>File Access Denied Due To Password Protection.</p></stentry>
+            <stentry><p>You gave an incorrect password. See the ATTRIB command.</p></stentry>
         </strow>
         <strow>
-            <stentry>26</stentry>
-            <stentry>Directory Space Full.</stentry>
-            <stentry>Number of filenames has reached the amount set when you formatted the
-                     disk.</stentry>
+            <stentry><p>26</p></stentry>
+            <stentry><p>Directory Space Full.</p></stentry>
+            <stentry><p>Number of filenames has reached the amount set when you formatted the
+                     disk.</p></stentry>
         </strow>
         <strow>
-            <stentry>27</stentry>
-            <stentry>Disk Space Full.</stentry>
-            <stentry>No space is available on the disk.</stentry>
+            <stentry><p>27</p></stentry>
+            <stentry><p>Disk Space Full.</p></stentry>
+            <stentry><p>No space is available on the disk.</p></stentry>
         </strow>
         <strow>
-            <stentry>28</stentry>
-            <stentry>Attempt To Read Past EOF.</stentry>
-            <stentry>Specified record number is past the EOF.</stentry>
+            <stentry><p>28</p></stentry>
+            <stentry><p>Attempt To Read Past EOF.</p></stentry>
+            <stentry><p>Specified record number is past the EOF.</p></stentry>
         </strow>
         <strow>
-            <stentry>29</stentry>
-            <stentry>Read Attempt Outside Of File Limits.</stentry>
-            <stentry>Use valid record numbers.</stentry>
+            <stentry><p>29</p></stentry>
+            <stentry><p>Read Attempt Outside Of File Limits.</p></stentry>
+            <stentry><p>Use valid record numbers.</p></stentry>
         </strow>
         <strow>
-            <stentry>30</stentry>
-            <stentry>No More Extents Available (16 Maximum).</stentry>
-            <stentry>Use the COPY command to copy the files and reduce fragmentation. See also
-                     SAVE/RESTORE and MOVE.</stentry>
+            <stentry><p>30</p></stentry>
+            <stentry><p>No More Extents Available (16 Maximum).</p></stentry>
+            <stentry><p>Use the COPY command to copy the files and reduce fragmentation. See also
+                     SAVE/RESTORE and MOVE.</p></stentry>
         </strow>
         <strow>
-            <stentry>31</stentry>
-            <stentry>Program Not Found.</stentry>
-            <stentry>Specified program is not found on the available disks.</stentry>
+            <stentry><p>31</p></stentry>
+            <stentry><p>Program Not Found.</p></stentry>
+            <stentry><p>Specified program is not found on the available disks.</p></stentry>
         </strow>
         <strow>
-            <stentry>32</stentry>
-            <stentry>Unknown Drive Number (Filespec).</stentry>
-            <stentry>Specified drive number is not valid.</stentry>
+            <stentry><p>32</p></stentry>
+            <stentry><p>Unknown Drive Number (Filespec).</p></stentry>
+            <stentry><p>Specified drive number is not valid.</p></stentry>
         </strow>
         <strow>
-            <stentry>33</stentry>
-            <stentry>Disk Space Allocation Cannot Be Made Due To Fragmentation Of Space.</stentry>
-            <stentry>Use the COPY command to copy the files and reduce fragmentation.</stentry>
+            <stentry><p>33</p></stentry>
+            <stentry><p>Disk Space Allocation Cannot Be Made Due To Fragmentation Of Space.</p></stentry>
+            <stentry><p>Use the COPY command to copy the files and reduce fragmentation.</p></stentry>
         </strow>
         <strow>
-            <stentry>34</stentry>
-            <stentry>Attempt To Use A NON Program File As A Program.</stentry>
-            <stentry>File specified for execution is not a program file or the load address
-                     given is illegal. Make sure you have a system diskette in Drive 0.</stentry>
+            <stentry><p>34</p></stentry>
+            <stentry><p>Attempt To Use A NON Program File As A Program.</p></stentry>
+            <stentry><p>File specified for execution is not a program file or the load address
+                     given is illegal. Make sure you have a system diskette in Drive 0.</p></stentry>
         </strow>
         <strow>
-            <stentry>35</stentry>
-            <stentry>Memory Fault During Program Load.</stentry>
-            <stentry>Program is loaded incorrectly, possibly because of faulty memory or a "bad"
-                     load address.</stentry>
+            <stentry><p>35</p></stentry>
+            <stentry><p>Memory Fault During Program Load.</p></stentry>
+            <stentry><p>Program is loaded incorrectly, possibly because of faulty memory or a "bad"
+                     load address.</p></stentry>
         </strow>
         <strow>
-            <stentry>36</stentry>
-            <stentry>Parameter For Open Is Incorrect.</stentry>
-            <stentry>Check the OPEN statements or the DCB for errors.</stentry>
+            <stentry><p>36</p></stentry>
+            <stentry><p>Parameter For Open Is Incorrect.</p></stentry>
+            <stentry><p>Check the OPEN statements or the DCB for errors.</p></stentry>
         </strow>
         <strow>
-            <stentry>37</stentry>
-            <stentry>Open Attempt For A File Already Open.</stentry>
-            <stentry>File specified for open is already open.</stentry>
+            <stentry><p>37</p></stentry>
+            <stentry><p>Open Attempt For A File Already Open.</p></stentry>
+            <stentry><p>File specified for open is already open.</p></stentry>
         </strow>
         <strow>
-            <stentry>38</stentry>
-            <stentry>I/O Attempt To An Unopen File.</stentry>
-            <stentry>Open the file before access.</stentry>
+            <stentry><p>38</p></stentry>
+            <stentry><p>I/O Attempt To An Unopen File.</p></stentry>
+            <stentry><p>Open the file before access.</p></stentry>
         </strow>
         <strow>
-            <stentry>39</stentry>
-            <stentry>Illegal I/O Attempt.</stentry>
+            <stentry><p>39</p></stentry>
+            <stentry><p>Illegal I/O Attempt.</p></stentry>
             <stentry>
                      <ul>
-                        <li>I command not given after a diskette swap.</li>
-                        <li>Can be caused by an I/O attempt to a differently formatted disk. Format
-                           the disk under the current version of TRSDOS-II or use FCOPY.</li>
+                        <li><p>I command not given after a diskette swap.</p></li>
+                        <li><p>Can be caused by an I/O attempt to a differently formatted disk. Format
+                           the disk under the current version of TRSDOS-II or use FCOPY.</p></li>
                      </ul>
 			</stentry>
         </strow>
         <strow>
-            <stentry>40</stentry>
-            <stentry>Seek Error.</stentry>
+            <stentry><p>40</p></stentry>
+            <stentry><p>Seek Error.</p></stentry>
             <stentry>
                      <ul>
-                        <li>Data cannot be read from the disk – faulty disk.</li>
-                        <li>When re-initializing a hard disk, you must also reformat the secondary
-                           drives.</li>
+                        <li><p>Data cannot be read from the disk – faulty disk.</p></li>
+                        <li><p>When re-initializing a hard disk, you must also reformat the secondary
+                           drives.</p></li>
                      </ul>
 			</stentry>
         </strow>
         <strow>
-            <stentry>41</stentry>
-            <stentry>Data Lost During Disk I/O (Hardware Fault).</stentry>
-            <stentry>Contact RSSC.</stentry>
+            <stentry><p>41</p></stentry>
+            <stentry><p>Data Lost During Disk I/O (Hardware Fault).</p></stentry>
+            <stentry><p>Contact RSSC.</p></stentry>
         </strow>
         <strow>
-            <stentry>42</stentry>
-            <stentry>Printer Not Ready.</stentry>
-            <stentry>Check the connections, power, ribbon, on-line status, and so on.</stentry>
+            <stentry><p>42</p></stentry>
+            <stentry><p>Printer Not Ready.</p></stentry>
+            <stentry><p>Check the connections, power, ribbon, on-line status, and so on.</p></stentry>
         </strow>
         <strow>
-            <stentry>43</stentry>
-            <stentry>Printer Out Of Paper.</stentry>
-            <stentry>Check the printer’s paper supply.</stentry>
+            <stentry><p>43</p></stentry>
+            <stentry><p>Printer Out Of Paper.</p></stentry>
+            <stentry><p>Check the printer’s paper supply.</p></stentry>
         </strow>
         <strow>
-            <stentry>44</stentry>
-            <stentry>Printer Fault (May Be Turned Off).</stentry>
-            <stentry>Check the connections, power, ribbon, on-line status, and so on.</stentry>
+            <stentry><p>44</p></stentry>
+            <stentry><p>Printer Fault (May Be Turned Off).</p></stentry>
+            <stentry><p>Check the connections, power, ribbon, on-line status, and so on.</p></stentry>
         </strow>
         <strow>
-            <stentry>45</stentry>
-            <stentry>Printer Not Available.</stentry>
-            <stentry>Check the connections, power, ribbon, on-line status, and so on.</stentry>
+            <stentry><p>45</p></stentry>
+            <stentry><p>Printer Not Available.</p></stentry>
+            <stentry><p>Check the connections, power, ribbon, on-line status, and so on.</p></stentry>
         </strow>
         <strow>
-            <stentry>46</stentry>
-            <stentry>Not Applicable To VLR Type Files.</stentry>
-            <stentry>Operation performed is not valid for VLR files.</stentry>
+            <stentry><p>46</p></stentry>
+            <stentry><p>Not Applicable To VLR Type Files.</p></stentry>
+            <stentry><p>Operation performed is not valid for VLR files.</p></stentry>
         </strow>
         <strow>
-            <stentry>47</stentry>
-            <stentry>Required Command Parameter Not Found.</stentry>
-            <stentry>Required parameter or argument is missing from the command.</stentry>
+            <stentry><p>47</p></stentry>
+            <stentry><p>Required Command Parameter Not Found.</p></stentry>
+            <stentry><p>Required parameter or argument is missing from the command.</p></stentry>
         </strow>
         <strow>
-            <stentry>48</stentry>
-            <stentry>Incorrect Command Parameter.</stentry>
-            <stentry>Option or argument given in the command is incorrect.</stentry>
+            <stentry><p>48</p></stentry>
+            <stentry><p>Incorrect Command Parameter.</p></stentry>
+            <stentry><p>Option or argument given in the command is incorrect.</p></stentry>
         </strow>
         <strow>
-            <stentry>49</stentry>
-            <stentry>Hardware Fault During Disk I/O.</stentry>
-            <stentry>Contact RSSC.</stentry>
+            <stentry><p>49</p></stentry>
+            <stentry><p>Hardware Fault During Disk I/O.</p></stentry>
+            <stentry><p>Contact RSSC.</p></stentry>
         </strow>
         <strow>
-            <stentry>50</stentry>
-            <stentry>Invalid Space Descriptor.</stentry>
-            <stentry>The space descriptor that tells TRSDOS-II which extent to read next is
-                     invalid. Try a different diskette.</stentry>
+            <stentry><p>50</p></stentry>
+            <stentry><p>Invalid Space Descriptor.</p></stentry>
+            <stentry><p>The space descriptor that tells TRSDOS-II which extent to read next is
+                     invalid. Try a different diskette.</p></stentry>
         </strow>
         <strow>
-            <stentry>51-255</stentry>
-            <stentry>Unknown error code</stentry>
+            <stentry><p>51-255</p></stentry>
+            <stentry><p>Unknown error code</p></stentry>
 			<stentry/>
         </strow>
       </simpletable>
