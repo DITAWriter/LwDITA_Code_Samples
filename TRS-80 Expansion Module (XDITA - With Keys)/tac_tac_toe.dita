@@ -22,7 +22,7 @@
                   and 1 (after 9 the sequence returns to 1). The first to get three in a row
                   wins.</p>
             <p>When your turn comes during play, type the number of the desired square and press
-                        <codeph>ENTER</codeph>. When the game is over, press <codeph>ENTER</codeph>
+                        <ph>ENTER</ph>. When the game is over, press <ph>ENTER</ph>
                   to play again.</p>
             <p>Sample Game:</p>
             <p>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80 Expansion Module (XDITA - With Keys)/temp/pdf?><?workdir-uri file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/temp/pdf/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD LIGHTWEIGHT DITA Topic//EN?><?doctype-system lw-topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xml:lang="en-us" id="tac_tac_toe" ditaarch:DITAArchVersion="1.3" domains="(topic xdita-c) (topic hi-d) (topic h5m-d)" class="- topic/topic " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="topic:1;3:42">
+      <title class="- topic/title " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="title:1;4:14">Tic-Tac-Toe</title>
+      <shortdesc class="- topic/shortdesc " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="shortdesc:1;5:18">How to play the tic-tac-toe game on your TRS-80.</shortdesc>
+      <prolog class="- topic/prolog " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="prolog:1;6:15">
+            <data name="author" value="Marvin Walker" class="- topic/data " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="data:1;7:56"/>
+      </prolog>
+      <body class="- topic/body " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="body:1;9:13">
+            <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="p:1;10:16">Tic-Tac-Toe is an exciting and challenging variation of the old school-yard pastime,
+                  with the same objective of the regular game, but requiring the logic and foresight
+                  of chess.</p>
+            <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="p:2;13:16">The squares of the Tic-Tac-Toe board are randomly numbered 1 through 9, and the
+                  player and the computer take turns moving. On the first turn, it is exactly like
+                  the regular game, but on the second turn all pieces shift to the next sequential
+                  number.</p>
+            <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="p:3;17:16">That is, if the Computer opened the game by placing an O in square 5 and you
+                  responded by putting an X in square 2, then the board would be re-drawn with an O
+                  in square 6 and an X in square 3. Continuing with this example, let’s say the
+                  Computer next plays to square 8 and you put your mark in square 9, then the
+                  redrawn board will have O’s in squares 7 and 9 and the X’s will be in squares 4
+                  and 1 (after 9 the sequence returns to 1). The first to get three in a row
+                  wins.</p>
+            <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="p:4;24:16">When your turn comes during play, type the number of the desired square and press
+                        <ph class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="ph:1;25:29">ENTER</ph>. When the game is over, press <ph class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="ph:2;25:74">ENTER</ph>
+                  to play again.</p>
+            <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="p:5;27:16">Sample Game:</p>
+            <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="p:6;28:16">
+                  <image href="images/sample_game.jpg" class="- topic/image " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="image:1;29:56">
+                        <alt class="- topic/alt " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="alt:1;30:30">Sample Game</alt>
+                  </image>
+                  <ph class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/tac_tac_toe.dita" xtrc="ph:3;32:23">Sample Game</ph>
+            </p>
+      </body>
+</topic>

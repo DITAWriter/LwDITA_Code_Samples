@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80 Expansion Module (XDITA - With Keys)/temp/pdf?><?workdir-uri file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/temp/pdf/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD LIGHTWEIGHT DITA Topic//EN?><?doctype-system lw-topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xml:lang="en-us" id="welcome" ditaarch:DITAArchVersion="1.3" domains="(topic xdita-c) (topic hi-d) (topic h5m-d)" class="- topic/topic " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="topic:1;3:38">
+   <title class="- topic/title " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="title:1;4:11">Welcome to the World of Personal Computing</title>
+      <shortdesc class="- topic/shortdesc " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="shortdesc:1;5:18">Why you should not be scared of the new world of personal computing!</shortdesc>
+      <prolog class="- topic/prolog " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="prolog:1;6:15">
+            <data name="author" value="Kevin Lewis" class="- topic/data " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="data:1;7:54"/>
+      </prolog>
+   <body class="- topic/body " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="body:1;9:10">
+      <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="p:1;10:10">We've been living in the Computer Age for more than twenty years. But most people still
+            think of computers as million dollar electronic monsters.</p>
+      <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="p:2;12:10">You've seen the made-for-the-movies computer. Rows of flashing lights, whirring sounds,
+            bespectacled men in white lab coats seated at mysterious control panels. Feed some
+            punched cards, paper tapes, tax returns and financial statements in one end…and out pop
+            more punched cards, more paper tapes, bills and credit statements.</p>
+      <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="p:3;16:10">This "Please don't fold, spindle or mutilate" reputation of the computer is about to be
+            demolished (finally!) by the remarkable advances in miniaturization which gave us the
+            pocket calculator and digital watch. The <b class="+ topic/ph hi-d/b " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="b:1;18:57">microcomputer</b> has arrived, and
+            computers are going to become as common as telephones and television sets.</p>
+      <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="p:4;20:10">Think of the impact on the way we conduct business, educate students and keep track of
+            our personal finances! Now the power of the computer to the appliance repair shop, the
+            accountant, the neighborhood classroom, the corner grocer, even the individual.</p>
+      <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="p:5;23:10">The microcomputer is ushering in a fantastic new phase of the Computer Age. <i class="+ topic/ph hi-d/i " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/welcome.dita" xtrc="i:1;23:89">Welcome
+                to the World of Personal Computing!</i>
+      </p>
+   </body>
+</topic>

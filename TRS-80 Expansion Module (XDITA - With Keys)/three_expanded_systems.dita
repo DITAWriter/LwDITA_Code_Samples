@@ -15,12 +15,12 @@
             the "EDUCATOR" is ideally suited for computer-assisted instruction programs. </p>
          <p>INCLUDES: </p>
          <ul>
-            <li><ph keyref="computer_model"/> with 4K RAM, Level-I BASIC (26-1001)</li>
-            <li>12" Video Display (26-1201)</li>
-            <li>Realistic® CTR-41 Cassette Recorder (14-841)</li>
+            <li><p><ph keyref="computer_model"/> with 4K RAM, Level-I BASIC (26-1001)</p></li>
+            <li><p>12" Video Display (26-1201)</p></li>
+            <li><p>Realistic® CTR-41 Cassette Recorder (14-841)</p></li>
             <li>
-               <ph keyref="computer_model"/> Screen Printer (26-1151)</li>
-            <li><ph keyref="computer_model"/> "PROFESSIONAL" SYSTEM</li>
+            <p><ph keyref="computer_model"/> Screen Printer (26-1151)</p></li>
+            <li><p><ph keyref="computer_model"/> "PROFESSIONAL" SYSTEM</p></li>
          </ul>
          <p>
             <image href="images/educator_system.jpg">
@@ -37,13 +37,13 @@
             "on-line" costs. </p>
          <p>INCLUDES:</p>
          <ul>
-            <li><ph keyref="computer_model"/> with 16K RAM, Level-II BASIC (26-1006)</li>
-            <li>12" Video Display (26-1201)</li>
-            <li>CT-41 Recorder (14-841)</li>
-            <li><ph keyref="computer_model"/> Screen Printer (26-1151)</li>
-            <li><ph keyref="computer_model"/>
-               <ph keyref="peripheral_name"/> (26-1140)</li>
-            <li><ph keyref="computer_model"/> Mini-Disk System (26-1160)</li>
+            <li><p><ph keyref="computer_model"/> with 16K RAM, Level-II BASIC (26-1006)</p></li>
+            <li><p>12" Video Display (26-1201)</p></li>
+            <li><p>CT-41 Recorder (14-841)</p></li>
+            <li><p><ph keyref="computer_model"/> Screen Printer (26-1151)</p></li>
+            <li><p><ph keyref="computer_model"/>
+               <ph keyref="peripheral_name"/> (26-1140)</p></li>
+            <li><p><ph keyref="computer_model"/> Mini-Disk System (26-1160)</p></li>
          </ul>
          <p>
             <image href="images/professional_system.jpg">
@@ -60,14 +60,14 @@
             dental offices. </p>
          <p>INCLUDES:</p>
          <ul>
-            <li><ph keyref="computer_model"/> with 16K RAM, Level-II BASIC (26-1006) - 12" Video
-               Display (26-1201)</li>
-            <li>CTR-41 Recorder (14-841)</li>
-            <li><ph keyref="computer_model"/> Line Printer (26-1150)</li>
-            <li><ph keyref="computer_model"/>
-               <ph keyref="peripheral_name"/> (26-1140)</li>
-            <li>Two <ph keyref="computer_model"/> Mini-Disk Systems (26-1160)</li>
-            <li>16K RAM Memory Option (26-1101)</li>
+            <li><p><ph keyref="computer_model"/> with 16K RAM, Level-II BASIC (26-1006) - 12" Video
+               Display (26-1201)</p></li>
+            <li><p>CTR-41 Recorder (14-841)</p></li>
+            <li><p><ph keyref="computer_model"/> Line Printer (26-1150)</p></li>
+            <li><p><ph keyref="computer_model"/>
+               <ph keyref="peripheral_name"/> (26-1140)</p></li>
+            <li><p>Two <ph keyref="computer_model"/> Mini-Disk Systems (26-1160)</p></li>
+            <li><p>16K RAM Memory Option (26-1101)</p></li>
          </ul>
          <p>
             <image href="images/business_system.jpg">
@@ -76,12 +76,12 @@
             <ph>32K 'BUSINESS' SYSTEM</ph>
          </p>
          <p>For more information, please see our instructive video about the <ph
-               keyref="computer_model"/>’s capabilities: <video>
-               <media-controls/>
-               <video-poster value="images/video_ad_still.png"/>
-               <media-source value="https://www.youtube.com/watch?v=0xW_4NXU3jI"/>
+               keyref="computer_model"/>’s capabilities:</p>
+         <video>
+            <video-poster value="images/video_ad_still.png"/>   
+            <media-controls/>
+            <media-source value="https://www.youtube.com/watch?v=0xW_4NXU3jI"/>
             </video>
-         </p>
-      </section>
+               </section>
    </body>
 </topic>

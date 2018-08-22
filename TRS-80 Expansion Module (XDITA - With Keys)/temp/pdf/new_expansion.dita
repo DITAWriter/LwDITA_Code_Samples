@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80 Expansion Module (XDITA - With Keys)/temp/pdf?><?workdir-uri file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/temp/pdf/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD LIGHTWEIGHT DITA Topic//EN?><?doctype-system lw-topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xml:lang="en-us" id="new_expansion" ditaarch:DITAArchVersion="1.3" domains="(topic xdita-c) (topic hi-d) (topic h5m-d)" class="- topic/topic " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/new_expansion.dita" xtrc="topic:1;3:44">
+    <title class="- topic/title " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/new_expansion.dita" xtrc="title:1;4:12">The NEW <ph keyref="computer_model" class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/new_expansion.dita" xtrc="ph:1;4:49">TRS-80</ph>
+        <ph keyref="peripheral_name" class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/new_expansion.dita" xtrc="ph:2;5:39">Expansion Interface</ph>
+    </title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/new_expansion.dita" xtrc="shortdesc:1;7:16">Information on what the TRS-80 Expansion Interface can do for you! Includes basic
+        specification information.</shortdesc>
+    <prolog class="- topic/prolog " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/new_expansion.dita" xtrc="prolog:1;9:13">
+        <data name="author" value="Kevin Lewis" class="- topic/data " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/new_expansion.dita" xtrc="data:1;10:50"/>
+    </prolog>
+    <body class="- topic/body " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/new_expansion.dita" xtrc="body:1;12:11">
+        <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/new_expansion.dita" xtrc="p:1;13:12">A vital part of <ph keyref="company_name" class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/new_expansion.dita" xtrc="ph:3;13:55">Radio Shack</ph>’s modular design, this single interface
+            enables you to upgrade your system as your needs increase. It contains sockets for
+            additional 16K or 32K RAM and a disk controller for up to for mini-disks.
+            Software-selectable dual cassettes can be used. It attaches to (and continues) the <ph keyref="computer_model" class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/new_expansion.dita" xtrc="ph:4;17:42">TRS-80</ph> bus, and features a Centronics parallel port, real time
+            clock, and a card slot for an RS-232C interface–or whatever! Usually requires Level-II
+            BASIC.</p>
+    </body>
+</topic>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map xdita-c) (topic hi-d) (map mapgroup-d)" xtrc="map:1;3:6" xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/index.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <topicmeta xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicmeta " xtrc="topicmeta:1;4:16" xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/index.ditamap">
+        <navtitle class="- topic/navtitle " xtrc="navtitle:1;5:19" xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/index.ditamap"><ph class="- topic/ph " keyref="peripheral_name" xtrc="ph:1;5:49" xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/index.ditamap">Expansion Interface</ph> Expansion Pack, Error Messages and Sample Game Code</navtitle>
+    </topicmeta>
+    
+    
+    
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+    <?ditaot gentext?><?ditaot genshortdesc?>
+
+   
+</opentopic:map><opentopic-index:index.groups/></map>

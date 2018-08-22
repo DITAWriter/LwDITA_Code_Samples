@@ -10,39 +10,39 @@
    <body>
       <p>There are three kinds of error messages you might get while using your computer:</p>
       <ul>
-         <li>Boot errors, such as BOOT ERROR DC. See the Boot Errors Table for more
-            information.</li>
-         <li>Operating system errors, such as ERROR 24 or FILE NOT FOUND. To get a brief description
-            of a numbered error, type <codeph>ERROR</codeph> followed by the error number displayed.
-            For example, type:</li>
+         <li><p>Boot errors, such as BOOT ERROR DC. See the Boot Errors Table for more
+            information.</p></li>
+         <li><p>Operating system errors, such as ERROR 24 or FILE NOT FOUND. To get a brief description
+            of a numbered error, type <ph>ERROR</ph> followed by the error number displayed.
+            For example, type:</p></li>
       </ul>
       <p>
-         <codeph>ERROR 31 (ENTER)</codeph>
+         <ph>ERROR 31 (ENTER)</ph>
       </p>
       <p>and your screen shows:</p>
       <p>
-         <codeph>PROGRAM NOT FOUND</codeph>
+         <ph>PROGRAM NOT FOUND</ph>
       </p>
       <p>For more information see the System Errors Table.</p>
       <ul>
-         <li>Application program errors: see your application program manual.</li>
+         <li><p>Application program errors: see your application program manual.</p></li>
       </ul>
       <p>When an error message is displayed:</p>
       <ul>
-         <li>Try the operation several times.</li>
-         <li>Look up boot errors and operating system errors in the following tables and take the
+         <li><p>Try the operation several times.</p></li>
+         <li><p>Look up boot errors and operating system errors in the following tables and take the
             recommended actions. See your application program manual for explanations of application
-            program errors.</li>
-         <li>Try using other diskettes.</li>
-         <li>Reset the computer and try the operation again.</li>
-         <li>Check all the power connections.</li>
-         <li>Check all interconnections.</li>
-         <li>Remove all diskettes from drives, turn off the computer, wait 15 seconds, and turn it
-            on again.</li>
-         <li>If you tried all these remedies and continue to get an error message, contact a <ph
-               keyref="company_name"/> Service Center.</li>
+            program errors.</p></li>
+         <li><p>Try using other diskettes.</p></li>
+         <li><p>Reset the computer and try the operation again.</p></li>
+         <li><p>Check all the power connections.</p></li>
+         <li><p>Check all interconnections.</p></li>
+         <li><p>Remove all diskettes from drives, turn off the computer, wait 15 seconds, and turn it
+            on again.</p></li>
+         <li><p>If you tried all these remedies and continue to get an error message, contact a <ph
+               keyref="company_name"/> Service Center.</p></li>
       </ul>
-      <note>If more than one thing is wrong, the computer might wait until you correct the first
-         error before displaying the second error message.</note>
+      <note><p>If more than one thing is wrong, the computer might wait until you correct the first
+         error before displaying the second error message.</p></note>
    </body>
 </topic>

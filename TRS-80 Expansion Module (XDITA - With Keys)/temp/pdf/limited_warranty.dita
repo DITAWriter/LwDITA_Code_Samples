@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80 Expansion Module (XDITA - With Keys)/temp/pdf?><?workdir-uri file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/temp/pdf/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD LIGHTWEIGHT DITA Topic//EN?><?doctype-system lw-topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xml:lang="en-us" id="limited_warranty" ditaarch:DITAArchVersion="1.3" domains="(topic xdita-c) (topic hi-d) (topic h5m-d)" class="- topic/topic " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="topic:1;3:47">
+    <title class="- topic/title " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="title:1;4:12">Limited Warranty</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="shortdesc:1;5:16">A description of the limited warranty for the TRS-80 expansion module.</shortdesc>
+    <prolog class="- topic/prolog " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="prolog:1;6:13">
+        <data name="author" value="Wilson Rodriquez" class="- topic/data " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="data:1;7:55"/>
+    </prolog>
+    <body class="- topic/body " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="body:1;9:11">
+        <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="p:1;10:12"><ph keyref="company_name" class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="ph:1;10:39">Radio Shack</ph> warrants for a period of 90 days from the date of delivery to
+            customer that the computer hardware described herein shall be free from defects in
+            material and workmanship under normal use and service. This warranty shall be void if
+            the computer case or cabinet is opened or if the unit is altered or modified. During
+            this period, if a defect should occur, the product must be returned to a <ph keyref="company_name" class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="ph:2;15:40">Radio Shack</ph> store or dealer for repair. Customer’s sole and exclusive
+            remedy in the event of defect is expressly limited to the correction of the defect by
+            adjustment, repair or replacement at <ph keyref="company_name" class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="ph:3;17:77">Radio Shack</ph>’s election and sole
+            expense, except there shall be no obligation to replace or repair items which by their
+            nature are expendable. No representations or other affirmation of fact, including but
+            not limited to statements regarding capacity, suitability for use, or performance of the
+            equipment, shall be or be deemed to be a warranty or representation by <ph keyref="company_name" class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="ph:4;22:40">Radio Shack</ph>, for any purpose, nor give rise to any liability or
+            obligation of <ph keyref="company_name" class="- topic/ph " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="ph:5;23:54">Radio Shack</ph> whatsoever.</p>
+        <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="p:2;24:12">EXCEPT AS SPECIFICALLY PROVIDED IN THIS AGREEMENT, THERE ARE NO OTHER WARRANTIES, EXPRESS
+            OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR
+            FITNESS FOR A PARTICULAR PURPOSE AND IN NO EVENT SHALL RADIO SHACK BE LIABLE FOR LOSS OF
+            PROFITS OR BENEFITS, INDIRECT, SPECIAL, CONSEQUENTIAL OR OTHER SIMILAR DAMAGES ARISING
+            OUT OF ANY BREACH OF THIS WARRANTY OR OTHERWISE.</p>
+        <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="p:3;29:12">RADIO SHACK [TC] A DIVISION OF TANDY CORPORATION USA.: FORT WORTH, TEXAS 76102 CANADA:
+            BARRIE, ONTARIO L4M 4W5</p>
+        <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="p:4;31:12">TANDY CORPORATION</p>
+        <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="p:5;32:12">AUSTRALIA 280-316 VICTORIA ROAD RYDALMERE N S W 2116</p>
+        <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="p:6;33:12">BELGIUM PARC INDUSTRIEL DE NANINNE 5140 NANINNE</p>
+        <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="p:7;34:12">U K BILSTON ROAD WEDNESBURY WEST MIDLANDS WS10 7JN</p>
+        <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="p:8;35:12">478-PERKCO-2980084</p>
+        <p class="- topic/p " xtrf="file:/Users/carlosevia/Documents/GitHub/LwDITA_Code_Samples/TRS-80%20Expansion%20Module%20(XDITA%20-%20With%20Keys)/limited_warranty.dita" xtrc="p:9;36:12">PRINTED IN U.S.A.</p>
+    </body>
+</topic>
